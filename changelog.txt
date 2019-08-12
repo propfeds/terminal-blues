@@ -1,4 +1,4 @@
-1.01
+1.0.1
 - No longer a difference between men and women (now both silvery white)
 - Lighter silver, iron and wall shade
 - Fixed winged shoes (now brown instead of wall blue)
@@ -8,7 +8,7 @@
 - On the technical side, an Aseprite script (Lua) has been created for the exporting of the tileset
 - Blood red shade more violent/vibrant
 
-1.02
+1.0.2
 - More wooden objects turn brown from wall blue
 - Kite shield looks less ugly
 - Raise your weapons!
