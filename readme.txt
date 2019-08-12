@@ -18,7 +18,7 @@ Changelog:
 - Kite shield looks less ugly
 - Raise your weapons!
 
-1.1:
+1.1 (WIP):
 - Wielded rapiers 1 pixel to the right
 - Sign now surrounded by floor
 - Drop your daggers!
