@@ -1,0 +1,33 @@
+1.01
+- No longer a difference between men and women (now both silvery white)
+- Lighter silver, iron and wall shade
+- Fixed winged shoes (now brown instead of wall blue)
+- Magic/sapphire shade is now bluer and brighter
+- Grid bug, storm elemental and dragon now purple instead of magic blue
+- Magic attacks now are actual ascii characters instead of custom glyphs, and now uses the ice blue shade
+- On the technical side, an Aseprite script (Lua) has been created for the exporting of the tileset
+- Blood red shade more violent/vibrant
+
+1.02
+- More wooden objects turn brown from wall blue
+- Kite shield looks less ugly
+- Raise your weapons!
+
+1.1 (WIP)
+- Wielded rapiers 1 pixel to the right
+- Sign now surrounded by floor
+- Drop your daggers!
+- Raise your weapons and shields!
+- Fat rapiers
+- Hole-less bodies and shields
+- Traps now solid colour (except holes)
+- Fixed leather cap not brown
+- Fixed iron helmet displaying as silver
+- Asian male and European female (why diversity)
+- Lighter skin tones
+- (Re-)coloured all the books
+- Zoul Zucker now magically violet
+- Bow now made of wood
+- New UI 'icons' (letters) for actions
+- Swapped uncursed for unknown inventory slots
+- Uncursed slots now iron blue
