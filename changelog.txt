@@ -14,20 +14,27 @@
 - Raise your weapons!
 
 1.1 (WIP)
-- Wielded rapiers 1 pixel to the right
-- Sign now surrounded by floor
-- Drop your daggers!
-- Raise your weapons and shields!
-- Fat rapiers
-- Hole-less bodies and shields
-- Traps now solid colour (except holes)
-- Fixed leather cap not brown
-- Fixed iron helmet displaying as silver
-- Asian male and European female (why diversity)
-- Lighter skin tones
-- (Re-)coloured all the books
-- Zoul Zucker now magically violet
-- Bow now made of wood
-- New UI 'icons' (letters) for actions
-- Swapped uncursed for unknown inventory slots
-- Uncursed slots now iron blue
+- Features
+-- New UI 'icons' (letters) for actions
+-- Opaque holes in @ and shields
+- Palette
+-- Bluer iron
+-- Lighter skin tones
+- Positional
+-- Wielded rapiers 1 pixel to the right, and fatter rapiers
+-- Drop your daggers!
+-- Raise your weapons and shields!
+- Fixes
+-- Sign not surrounded by floor
+-- Bow being iron blue (instead of wood brown)
+-- Leather cap being wall blue (instead of leather brown)
+-- Iron helmet displaying as silver white
+- Objects
+-- Traps now solid colour (except holes)
+-- Asian male and European female (why diversity)
+-- (Re-)coloured all the books and pots
+-- Zoul Zucker now magically violet
+-- Uncursed slots now ground blue
+-- Curse-unknown slots now rock grey
+-- Boulders now rock grey
+-- Darker unlit mask
