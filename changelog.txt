@@ -18,8 +18,8 @@
 -- New UI 'icons' (letters) for actions
 -- Opaque holes in @ and shields
 - Palette
--- Bluer iron
--- Lighter skin tones
+-- Adjusted almost the entire palette
+-- Deleted dark ice/glass tone
 - Positional
 -- Wielded rapiers 1 pixel to the right, and fatter rapiers
 -- Drop your daggers!
@@ -30,10 +30,13 @@
 -- Leather cap being wall blue (instead of leather brown)
 -- Iron helmet displaying as silver white
 - Objects
--- Traps now solid colour (except holes)
+-- Retextured chainmail
+-- Retextured plaid book for how many umpteen times
+-- Beezelbub is now a big B instead of &
+-- Traps now solid colour (except holes and spikes)
 -- Asian male and European female (why diversity)
 -- (Re-)coloured all the books and pots
--- Zoul Zucker now magically violet
+-- Zoul Zucker now violet
 -- Uncursed slots now ground blue
 -- Curse-unknown slots now rock grey
 -- Boulders now rock grey
