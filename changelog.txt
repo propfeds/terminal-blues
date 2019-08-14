@@ -13,10 +13,11 @@
 - Kite shield looks less ugly
 - Raise your weapons!
 
-1.1 (WIP)
+1.1
 - Features
 -- New UI 'icons' (letters) for actions
 -- Opaque holes in @ and shields
+-- New UI icons for spells (No ASCII!)
 - Palette
 -- Adjusted almost the entire palette
 -- Deleted dark ice/glass tone
