@@ -3,4 +3,4 @@ Author: PropFeds (deviantart.com/propfeds)
 Some form of copyright 2019.
 
 Installation instructions:
-Copy/cut the gfx folder to your POWDER game folder.
+Copy/cut the gfx folder to your POWDER game folder. The other folders are almost useless!
