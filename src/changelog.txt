@@ -18,8 +18,7 @@
 -- New UI 'icons' (letters) for actions
 -- New UI icons for spells (No ASCII!)
 - Palette
--- Adjusted the entire palette
--- Deleted dark ice/glass tone
+-- Overhauled the ENTIRE palette
 - Positional
 -- Wielded rapiers 1 pixel to the right and increased width
 -- Drop your daggers!
