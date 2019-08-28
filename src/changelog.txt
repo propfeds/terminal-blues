@@ -1,21 +1,6 @@
-0.1: Arcane Dust
-- No longer a difference between men and women (now both silvery white)
-- Lighter silver, iron and wall shade
-- Fixed winged shoes (now brown instead of wall blue)
-- Magic/sapphire shade is now bluer and brighter
-- Grid bug, storm elemental and dragon now purple instead of magic blue
-- Magic attacks now are actual ascii characters instead of custom glyphs, and now uses the ice blue shade
-- On the technical side, an Aseprite script (Lua) has been created for the exporting of the tileset
-- Blood red shade more violent/vibrant
-
-0.2: Raise Your Weapons
-- More wooden objects turn brown from wall blue
-- Kite shield looks less ugly
-- Raise your weapons!
-
-1.0: Spell Your Heart Out (Release)
+1.0: Spell Your Heart (Release)
 - Features
--- New UI 'icons' (letters) for actions
+-- New UI icons (letters) for actions
 -- New UI icons for spells (No ASCII!)
 - Palette
 -- Overhauled the ENTIRE palette
@@ -43,3 +28,18 @@
 -- Uncursed slots now ground blue
 -- Curse-unknown slots now rock grey
 -- Darker unlit mask
+
+0.2: Raise Your Weapons
+- More wooden objects turn brown from wall blue
+- Kite shield looks less ugly
+- Raise your weapons!
+
+0.1: Arcane Dust
+- No longer a difference between men and women (now both silvery white)
+- Lighter silver, iron and wall shade
+- Fixed winged shoes (now brown instead of wall blue)
+- Magic/sapphire shade is now bluer and brighter
+- Grid bug, storm elemental and dragon now purple instead of magic blue
+- Magic attacks now are actual ascii characters instead of custom glyphs, and now uses the ice blue shade
+- On the technical side, an Aseprite script (Lua) has been created for the exporting of the tileset
+- Blood red shade more violent/vibrant
