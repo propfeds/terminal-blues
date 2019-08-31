@@ -8,4 +8,7 @@ Installation instructions:
 1. Choose a variant folder:
 blues: The regular Terminal Blues experience.
 
-2. Copy/cut the gfx folder inside the variant folder to your POWDER game folder.
+2. Copy/cut the gfx folder inside the desired variant to your POWDER directory.
+
+3. Options: Found inside each variant. Override the bmp files in the gfx folder inside POWDER directory to apply.
+equipment: Will display worn equipment on the @.

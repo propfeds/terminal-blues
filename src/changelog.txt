@@ -2,34 +2,34 @@
 - Features
 -- New UI icons (letters) for actions
 -- New UI icons for spells (No ASCII!)
-- Palette
--- Overhauled the ENTIRE palette
-- Positional
--- Wielded rapiers 1 pixel to the right and increased width
--- Drop your daggers!
--- Raise your weapons and shields!
-- Fixes
--- Sign not surrounded by floor
--- Fixed several blue items into wooden brown
--- Iron helmet displaying as silver white instead of iron blue
-- Objects
--- Retextured Belweir's altar from some shit to underscore
--- Retextured text UI border
--- Retextured chainmail
--- Retextured plaid book for how many umpteen times
--- Retextured metal ground and wall
--- Opaque holes in @ and shields
--- Floating eyes now normal i instead of some umlaut
--- Beelzebub is now a big B instead of &
--- Triceratops is now a Japanese yen instead of D
--- Traps now solid colour (except holes and spikes)
--- Asian male and teal-skinned female (elder still orange)
+-- Option to enable equipment on @
+- Colours
+-- Modified the entire palette multiple times to please Jeff Lait's mysterious formula for minimap and unlearned spell colours
+-- Asian male and teal-skinned female
 -- (Re-)coloured all the books, pots and wands
 -- Zoul Zucker now violet
 -- Uncursed slots now leathery grey
 -- Curse-unknown slots now water blue
 -- Darker unlit mask
 -- Leather is now grey
+- Textures
+-- Retextured Belweir's altar from some shit to underscore
+-- Retextured chainmail
+-- Retextured plaid book for how many umpteen times
+-- Retextured metal ground and wall
+-- Retextured multiple UI elements
+-- Wielded rapiers now as fat as every other weapon
+-- Drop your daggers!
+-- Raise your weapons and shields!
+-- Opaque holes in @ and shields
+-- Floating eyes glyph removed umlaut on i
+-- Beelzebub glyph from & to B
+-- Triceratops glyph from D to Japanese yen
+-- Traps now solid colour (except spikes)
+- Fixes
+-- Sign not surrounded by floor
+-- Fixed several blue items into wooden brown
+-- Iron helmet displaying as silver white instead of iron blue
 
 0.2: Raise Your Weapons
 - More wooden objects turn brown from wall blue
