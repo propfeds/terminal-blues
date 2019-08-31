@@ -19,15 +19,17 @@
 -- Retextured plaid book for how many umpteen times
 -- Retextured metal ground and wall
 -- Opaque holes in @ and shields
+-- Floating eyes now normal i instead of some umlaut
 -- Beelzebub is now a big B instead of &
 -- Triceratops is now a Japanese yen instead of D
 -- Traps now solid colour (except holes and spikes)
 -- Asian male and teal-skinned female (elder still orange)
 -- (Re-)coloured all the books, pots and wands
 -- Zoul Zucker now violet
--- Uncursed slots now ground blue
--- Curse-unknown slots now rock grey
+-- Uncursed slots now leathery grey
+-- Curse-unknown slots now water blue
 -- Darker unlit mask
+-- Leather is now grey
 
 0.2: Raise Your Weapons
 - More wooden objects turn brown from wall blue
