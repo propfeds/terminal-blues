@@ -5,4 +5,7 @@ Some form of copyright 2019.
 *Some items have custom textures (HERESY!) for identification, and the spells are 100% low-spec art with occasional CP437 character references.
 
 Installation instructions:
-Copy/cut the gfx folder to your POWDER game folder.
+1. Choose a variant folder:
+blues: The regular Terminal Blues experience.
+
+2. Copy/cut the gfx folder inside the variant folder to your POWDER game folder.
