@@ -12,6 +12,7 @@
 -- Curse-unknown slots now water blue
 -- Darker unlit mask
 -- Leather is now grey
+-- Wood is now dark green instead of ugly brown
 - Textures
 -- Retextured Belweir's altar from some shit to underscore
 -- Retextured chainmail
@@ -24,7 +25,7 @@
 -- Opaque holes in @ and shields
 -- Floating eyes glyph removed umlaut on i
 -- Beelzebub glyph from & to B
--- Triceratops glyph from D to Japanese yen
+-- Glowing y-rune glyph from y to Japanese yen
 -- Traps now solid colour (except spikes)
 - Fixes
 -- Sign not surrounded by floor
