@@ -1,19 +1,18 @@
 # Terminal Blues: A POWDER Tileset in CP437*
-### Author: PropFeds - deviantart.com/propfeds
-### Some form of copyright 2019.
+### By [PropFeds](https://deviantart.com/propfeds)
 
 ## Installation instructions:
 0. Head to your favourite release and download.
 Or clone the master to catch any work-in-progress changes.
 
 1. Choose a variant folder:
-- blues: The regular Terminal Blues experience.
+    - blues: The regular Terminal Blues experience.
 
-2. Windows: Copy/cut the gfx folder inside the desired variant to your POWDER directory.
-Handheld versions: You'll need to compile the game with these tiles included. No other way to apply this tileset.
+2.  - Windows: Copy/cut the gfx folder inside the desired variant to your POWDER directory.
+    - Handheld versions: You'll need to compile the game with these tiles included. No other way to apply this tileset.
 
 3. Options: Found inside each variant. Override the bmp files in the gfx folder inside POWDER directory to apply.
-- equipment: Will display worn equipment on the @.
+    - equipment: Will display worn equipment on the @.
 
 4. Don't forget to actually choose the tileset.
 Start POWDER and go to Options > Tiles > From Disk.
