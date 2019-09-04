@@ -1,0 +1,1 @@
+Apologies that there have apparently been colour issues with these screenshots since I stupidly used indexed mode rather than RGB. That means, screenshot #1 and #2 would look different than in-game (mostly in the terminal's background, but all the other parts are alright)
