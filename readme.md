@@ -9,6 +9,7 @@ Or clone the master to catch any work-in-progress changes.
     - blues: The regular Terminal Blues experience.
 
 2.  - Windows: Copy/cut the gfx folder inside the desired variant to your POWDER directory.
+    - Linux: I don't have a Linux machine, however the process should be similar to Windows.
     - Handheld versions: You'll need to compile the game with these tiles included. No other way to apply this tileset.
 
 3. Options: Found inside each variant. Override the bmp files in the gfx folder inside POWDER directory to apply.
