@@ -1,3 +1,8 @@
+1.1: Unknown (WIP)
+Colours
+- Water and stone now same shade
+- Darker unlearned spell borders
+
 1.0: Release
 Features
 - New UI icons (letters) for actions
