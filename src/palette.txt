@@ -1,0 +1,36 @@
+In case you didn't know you could open the .gpl file with Notepad I'll name them once more.
+Note that POWDER converts colours to 5-bit RGB so these will *not* be the rendered palette in game.
+
+**Palette listing:**
+  0   0   0	0. Pure Black:	    Renders as transparent in game.
+255 255 255	1. Pure White:	    Text, silver, the undead, except ghosts.
+  0 255   0	2. Pure Green:      Renders as pure black in game.
+107  43  51	3. Burgundy:        Mostly used in fire spells, and dirt paths.
+179  52  37	4. Red:             Of all things barbaric in nature.
+222 112  64	5. Orange:          Fire.
+250 176 132	6. Flesh:           Flesh.
+224 208 120	7. Yellow:          Lightning, scrolls, sandal.
+209 178  21	8. Gold:            Gold, acid.
+ 71  82  39	9. Wood Green:      Of most things wooden and earthen.
+ 76 143  37	10.Green:           Foliage, poison trap, and a few green monsters.
+ 90 204  94	11.Bright Green:    Poisonous beings.
+136 232 232	12.Teal:            Ice and glass.
+ 82 194 217	13.Iron Blue:       Iron.
+ 64 146 184	14.Brick Blue:      Room.
+ 48 114 161	15.Stone Blue:      Corridor and the waters.
+ 31  77 122	16.Dark Blue:       Mostly used in ice spells.
+ 48  67  92	17.Grey:            Leather, smoke and stealth.
+ 19  31  54	18.Terminal Blue:   The ground you stand on.
+  8  11  33	19.Terminal Black:  The unknown.
+ 50  50 156	20.Dark Violet:     Mostly purple stuff, also teleport trap.
+ 82  68 189	21.Purple:          Of all things magical.
+
+**Spell Schemes:**
+- Arcane / Generic: White, Teal, Blues, Purple tails
+- Force: White, Yellow, Gold, Grey wind traces, Green leaves
+- Poison / Nature: Greens
+- Fire: White, Reds, Grey glow, Terminal Blue and Black background
+- Ice: White, Teal, Blues, Blue vapour aura
+- Lightning: Yellows, Grey glow, Terminal Blue and Black background
+- Acid: White, Yellows, Wood Green stink
+- Soul: White, Teal, Brick Blue, occasionally Iron Blue, Grey aura, Black background

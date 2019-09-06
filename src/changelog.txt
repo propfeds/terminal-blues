@@ -2,6 +2,7 @@
 Colours
 - Water and stone now same shade
 - Darker unlearned spell borders
+- Changed tridude colours
 
 1.0: Release
 Features
