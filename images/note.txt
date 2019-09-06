@@ -1,0 +1,7 @@
+Apologies that there have apparently been colour issues with these screenshots since I stupidly used indexed mode rather than RGB.
+That means, screenshot #1 and #2 would look different than in-game (mostly in the terminal's background, but all the other parts are alright).
+I've tried to recreate the scene by hand and it looks roughly accurate enough.
+
+There's another issue: POWDER converts the palette into 5-bit RGB to be GBA compatible.
+That's why the palette when I use it looks different from in-game.
+Screenshot 5 should be the most accurate since it was taken in RGB mode. Again apologies for the technical errors.
