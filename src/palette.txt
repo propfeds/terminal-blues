@@ -16,8 +16,8 @@ IDX   R     G     B     NAME            DESCRIPTION
 10   76   143    37     Green           Foliage, poison trap, and a few green monsters.
 11   90   204    94     Bright Green    Poisonous beings.
 12  136   232   232     Teal            Ice and glass.
-13   82   194   217     Iron Blue       Iron.
-14   64   146   184     Brick Blue      Room.
+13   82   194   217     Iron Blue       Iron and the common monsters.
+14   64   146   184     Brick Blue      Room and stairs.
 15   48   114   161     Stone Blue      Corridor and the waters.
 16   31    77   122     Dark Blue       Mostly used in ice spells.
 17   48    67    92     Grey            Leather, smoke and stealth.
