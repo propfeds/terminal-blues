@@ -1,4 +1,6 @@
-# Terminal Blues: A POWDER Tileset in CP437*, by [PropFeds](https://deviantart.com/propfeds)
+# Terminal Blues: A POWDER Tileset in CP437*
+
+## by [PropFeds](https://deviantart.com/propfeds)
 
 ### Installation instructions:
 
@@ -22,8 +24,12 @@
 
 ### Screenshots:[**](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/src/extras/note.txt)
 
-![Screenshot 1](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/src/extras/screenshot1.png) ![Screenshot 2](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/src/extras/screenshot2.png)
+![Screenshot 1](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/src/extras/screenshot1.png)
 
-![Screenshot 3](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/src/extras/screenshot3.png) ![Screenshot 4](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/src/extras/screenshot4.png)
+![Screenshot 2](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/src/extras/screenshot2.png)
+
+![Screenshot 3](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/src/extras/screenshot3.png)
+
+![Screenshot 4](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/src/extras/screenshot4.png)
 
 *Some items have custom textures (HERESY!) for identification, and the spells are low-spec art with occasional CP437 character references.
