@@ -1,8 +1,12 @@
-1.1: Unknown (WIP)
+Version Unknown (WIP):
 Colours
 - Water and stone now same shade
 - Darker unlearned spell borders
 - Changed tridude colours
+- Drop shadow on text now southwest instead of southeast
+Fixes
+- Stairs to brick blue on UI
+- Small terminal black patches leftover in alphabets
 
 1.0: Release
 Features
