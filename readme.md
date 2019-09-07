@@ -1,5 +1,6 @@
-# Terminal Blues: A POWDER Tileset in CP437*
-### By [PropFeds](https://deviantart.com/propfeds)
+![Social Card](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/src/extras/social_card_2x.png)
+
+### Terminal Blues: A POWDER Tileset in CP437*, by [PropFeds](https://deviantart.com/propfeds)
 
 ## Installation instructions:
 **0.** Head to your favourite release and download, or clone the master to catch any work-in-progress changes.
