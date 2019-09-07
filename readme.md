@@ -1,6 +1,4 @@
-![Social Card](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/src/extras/social_card_2x.png)
-
-## Terminal Blues: A POWDER Tileset in CP437*, by [PropFeds](https://deviantart.com/propfeds)
+# Terminal Blues: A POWDER Tileset in CP437*, by [PropFeds](https://deviantart.com/propfeds)
 
 ### Installation instructions:
 
@@ -22,7 +20,7 @@
 
 **4.** Apply the tileset by starting POWDER and go to Options > Tiles > From Disk.
 
-### Screenshots:
+### Screenshots:[**](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/src/extras/note.txt)
 
 ![Screenshot 1](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/src/extras/screenshot1.png) ![Screenshot 2](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/src/extras/screenshot2.png)
 
