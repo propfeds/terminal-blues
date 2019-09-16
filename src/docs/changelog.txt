@@ -1,4 +1,6 @@
 Version Unknown (WIP):
+Features
+- UI icons (heart, magic hat, etc.) are now CP437 characters
 Colours
 - Water and stone now same shade
 - Darker unlearned spell borders
