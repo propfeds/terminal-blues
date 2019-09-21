@@ -21,6 +21,7 @@
 - Aflame effect from some weird upside down commas to a double quote
 - Better looking amulets and mallets
 - Animate Tree spell icon now has red eyes
+- Flash spell icon: reduced lens flare
 
 ### 1.0: Release
 **Features**
