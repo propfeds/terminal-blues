@@ -1,4 +1,4 @@
-### 1.0.1: Pixelated Surgery
+### 1.0.1: Polymorph
 **Features**
 - UI icons (heart, magic hat, etc.) are now CP437 characters
 
@@ -20,6 +20,7 @@
 - Kobold fighter from violet to room blue, because
 - Aflame effect from some weird upside down commas to a double quote
 - Better looking amulets and mallets
+- Animate Tree spell icon now has red eyes
 
 ### 1.0: Release
 **Features**
