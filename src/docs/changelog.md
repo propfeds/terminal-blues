@@ -1,25 +1,33 @@
-Version Unknown (WIP):
-Features
+### 1.0.1: Pixelated Surgery
+**Features**
 - UI icons (heart, magic hat, etc.) are now CP437 characters
-Colours
+
+**Colours**
 - Water and stone now same shade
 - Darker unlearned spell borders
 - Changed tridude colours
 - Drop shadow on text now southwest instead of southeast
-- Action icons for character actions from male yellow to female teal (because it's more blue, women are scientifically™ proven to be more sad)
-- Breathing icon from magic purple to ice teal
-Fixes
-- Stairs to brick blue on UI
-- Small terminal black patches leftover in alphabets
-Textures
-- Kobold fighter dark violet to room blue, because
+- Action icons for character actions from yellow to teal (because it's more blue)
+- Breathing icon from purple to teal
+- Animated trees to light green and w/o dark eyes
 
-1.0: Release
-Features
+**Fixes**
+- Stairs to room blue on UI
+- Small terminal black patches leftover in alphabets
+- @ potion from iron blue to teal
+
+**Textures**
+- Kobold fighter from violet to room blue, because
+- Aflame effect from some weird upside down commas to a double quote
+- Better looking amulets and mallets
+
+### 1.0: Release
+**Features**
 - New UI icons (letters) for actions
 - New UI icons for spells (No ASCII!)
 - Option to enable equipment on @
-Colours
+
+**Colours**
 - Modified the entire palette multiple times to please Jeff Lait's mysterious formula for minimap and unlearned spell colours
 - Asian male and teal-skinned female
 - (Re-)coloured all the books, pots and wands
@@ -31,7 +39,8 @@ Colours
 - Wood is now dark green instead of ugly brown
 - Consistency: Now all electric enemies are yellow
 - Stairs now wall blue
-Textures
+
+**Textures**
 - Retextured Belweir's altar from some shit to underscore
 - Retextured chainmail
 - Retextured plaid book for how many umpteen times
@@ -45,17 +54,18 @@ Textures
 - Beelzebub glyph from & to B
 - Glowing y-rune glyph from y to Japanese yen
 - Traps now solid colour (except spikes)
-Fixes
+
+**Fixes**
 - Sign not surrounded by floor
 - Fixed several blue items into wooden brown
 - Iron helmet displaying as silver white instead of iron blue
 
-0.2: Raise Your Weapons
+### 0.2: Raise Your Weapons
 - More wooden objects turn brown from wall blue
 - Kite shield looks less ugly
 - Raise your weapons!
 
-0.1: Arcane Dust
+### 0.1: Arcane Dust
 - No longer a difference between men and women (now both silvery white)
 - Lighter silver, iron and wall shade
 - Fixed winged shoes (now brown instead of wall blue)
