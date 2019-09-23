@@ -6,13 +6,13 @@ IDX   R     G     B     NAME            DESCRIPTION
 0     0     0     0     Pure Black      Renders as transparent in game.
 1   255   255   255     Pure White      Text, silver, the undead, except ghosts.
 2     0   255     0     Pure Green      Renders as pure black in game.
-3   107    43    51     Burgundy        Mostly used in fire spells, and dirt paths.
+3   107    43    51     Burgundy        Mostly used in fire spells.
 4   179    52    37     Red             Of all things barbaric in nature.
 5   222   112    64     Orange          Fire.
 6   250   176   132     Flesh           Flesh.
 7   224   208   120     Yellow          Lightning, scrolls, sandal.
 8   209   178    21     Gold            Gold, acid.
-9    71    82    39     Wood Green      Of most things wooden and earthen.
+9    71    82    39     Earth Green     Of most things wooden and earthen.
 10   76   143    37     Green           Foliage, poison trap, and a few green monsters.
 11   90   204    94     Bright Green    Poisonous beings.
 12  136   232   232     Teal            Ice and glass.
@@ -27,11 +27,11 @@ IDX   R     G     B     NAME            DESCRIPTION
 21   82    68   189     Purple          Of all things magical.
 
 **Spell Schemes:**
-- Arcane / Generic: White, Teal, Blues, Purple tails
+- Arcane / Generic: White, Yellows, Teal, Blues, Purple tails
 - Force: White, Yellow, Gold, Grey wind traces, Green leaves
 - Poison / Nature: Greens
 - Fire: White, Reds, Grey glow, Terminal Blue and Black background
-- Ice: White, Teal, Blues, Blue vapour aura
+- Ice: White, Teal, Blues, Blue aura
 - Lightning: Yellows, Grey glow, Terminal Blue and Black background
-- Acid: White, Yellows, Wood Green stink
-- Soul: White, Teal, Brick Blue, occasionally Iron Blue, Grey aura, Black background
+- Acid: White, Yellows, Wood Green stench
+- Soul: White, Teal, Brick Blue, occasionally Iron Blue, Grey stench, Black background

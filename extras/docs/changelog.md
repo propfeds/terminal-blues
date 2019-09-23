@@ -1,6 +1,13 @@
-### 1.?.?: WIP
+### 1.0.2: Spelling Reform
+**Colours**
+- Dirt path from burgundy to earth green
+
 **Textures**
+- Revamped many spell icons
+- Cadence from red to yellow eyes
 - Spiked pits now have only one big spike
+- Tile and Text clicking icons now in corner triangles style
+
 ### 1.0.1: Polymorph
 **Features**
 - UI icons (heart, magic hat, etc.) are now CP437 characters
@@ -25,6 +32,7 @@
 - Better looking amulets and mallets
 - Animate Tree spell icon now has red eyes
 - Flash spell icon: reduced lens flare
+
 ### 1.0: Release
 **Features**
 - New UI icons (letters) for actions
@@ -63,10 +71,12 @@
 - Sign not surrounded by floor
 - Fixed several blue items into wooden brown
 - Iron helmet displaying as silver white instead of iron blue
+
 ### 0.2: Raise Your Weapons
 - More wooden objects turn brown from wall blue
 - Kite shield looks less ugly
 - Raise your weapons!
+
 ### 0.1: Arcane Dust
 - No longer a difference between men and women (now both silvery white)
 - Lighter silver, iron and wall shade
