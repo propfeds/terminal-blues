@@ -17,13 +17,13 @@
 
 **4.** Apply the tileset by starting POWDER and go to Options > Tiles > From Disk.
 
-### Screenshots:[**](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/extras/images/screenshots/note.txt)
-![Screenshot 1](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/extras/images/screenshots/screenshot1.png)
+### Screenshots:[**](extras/images/screenshots/note.txt)
+![Screenshot 1](extras/images/screenshots/screenshot1.png)
 
-![Screenshot 2](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/extras/images/screenshots/screenshot2.png)
+![Screenshot 2](extras/images/screenshots/screenshot2.png)
 
-![Screenshot 3](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/extras/images/screenshots/screenshot3.png)
+![Screenshot 3](extras/images/screenshots/screenshot3.png)
 
-![Screenshot 4](https://raw.githubusercontent.com/PropFeds/terminal-blues/master/extras/images/screenshots/screenshot4.png)
+![Screenshot 4](extras/images/screenshots/screenshot4.png)
 
 *Some items have custom textures (HERESY!) for identification, and the spells are low-spec art with occasional CP437 character references.
