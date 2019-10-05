@@ -1,6 +1,7 @@
 ### 1.0.2: Spelling Reform
 **Colours**
 - Dirt path from burgundy to earth green
+- Shitomi is now truly lavender!
 
 **Textures**
 - Revamped many spell icons
