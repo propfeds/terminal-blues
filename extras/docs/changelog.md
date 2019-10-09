@@ -1,6 +1,8 @@
 ### 1.0.2: Spelling Reform
 **Colours**
 - Dirt path from burgundy to earth green
+- Tree from regular green to earth green
+- Animated tree from poison green to regular green
 - Shitomi is now truly lavender (without bugging the entire sprite!)
 
 **Textures**
