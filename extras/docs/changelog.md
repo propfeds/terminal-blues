@@ -7,6 +7,7 @@
 
 **Textures**
 - Revamped many spell icons
+- UI mana icon now diamond instead of triangle
 - Cadence from red to yellow eyes
 - Spiked pits now have only one big spike
 - Tile and Text clicking icons now in corner triangles style
