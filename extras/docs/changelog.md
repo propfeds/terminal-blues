@@ -6,7 +6,8 @@
 - Shitomi is now truly lavender (without bugging the entire sprite!)
 
 **Textures**
-- Revamped many spell icons
+- Revamped *many* spell icons
+- Acid Hand on @ now is very gold
 - UI mana icon now diamond instead of triangle
 - Cadence from red to yellow eyes
 - Spiked pits now have only one big spike
