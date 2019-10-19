@@ -1,4 +1,4 @@
-### 1.0.2: Spelling Reform
+### 1.1: Spelling Reform
 **Colours**
 - Dirt path from burgundy to earth green
 - Tree from regular green to earth green
@@ -7,6 +7,7 @@
 
 **Textures**
 - Revamped *many* spell icons
+- UI buttons now square to be consistent with inventory
 - Acid Hand on @ now is very gold
 - UI mana icon now diamond instead of triangle
 - Cadence from red to yellow eyes
