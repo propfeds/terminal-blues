@@ -1,4 +1,7 @@
-### 1.1: Spelling Reform
+### 1.1: Spelling Reform (WIP)
+**Features**
+- Blightbulb: A new font
+
 **Colours**
 - Dirt path from burgundy to earth green
 - Tree from regular green to earth green
