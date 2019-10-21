@@ -3,7 +3,7 @@
 ## by [PropFeds](https://deviantart.com/propfeds)
 
 ### Installation instructions:
-**0.** Head to your favourite release and download, or clone the master to catch any work-in-progress changes. I don't want to make branches because I'm lazy. Plus rarely would someone who's not a programmer go and check out other branches anyway.
+**0.** Head to your favourite release and download, or clone the master to catch any work-in-progress changes, because image layers are a form of source control anyway.
 
 **1.** Choose a variant folder:
 - blues: The regular Terminal Blues experience.
