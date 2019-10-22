@@ -1,10 +1,10 @@
 ### 1.1: Spelling Reform (WIP)
 **Features**
-- Blightbulb: A new font
+- Blightbulb: A new font, replacing the Classic font
+- Brass Blues: A new look for the Brass font
 
 **Colours**
 - Dirt path from burgundy to earth green
-- Tree from regular green to earth green
 - Animated tree from poison green to regular green
 - Shitomi is now truly lavender (without bugging the entire sprite!)
 
@@ -12,10 +12,15 @@
 - Revamped *many* spell icons
 - UI buttons now square to be consistent with inventory
 - Acid Hand on @ now is very gold
-- UI mana icon now diamond instead of triangle
+- Tree glyph from club to spade
+- UI mana icon now diamond instead of triangle, or small potion (depending on alphabet)
+- UI shield icons lost an arm (ouch)
 - Cadence from red to yellow eyes
 - Spiked pits now have only one big spike
-- Tile and Text clicking icons now in corner triangles style
+- Tile and Text clicking icons now in corner triangles style, and now blue
+
+**Fixes**
+- Realigned hashes in some alphabets
 
 ### 1.0.1: Polymorph
 **Features**

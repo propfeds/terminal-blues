@@ -14,7 +14,6 @@
 
 **3.** Extra options: found inside each variant. Override the bmp files in the gfx folder inside POWDER directory to apply.
 - equipment: Will display worn equipment on the @ tile.
-- blightbulb: A custom font. Replaces alphabet_classic by default, but you can change the name.
 
 **4.** Apply the tileset by starting POWDER and go to Options > Tiles > From Disk.
 
