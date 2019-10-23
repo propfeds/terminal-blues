@@ -8,6 +8,9 @@
 - Dirt path from burgundy to earth green
 - Animated tree from poison green to regular green
 - Shitomi is now truly lavender (without bugging the entire sprite!)
+- Y rune from iron blue to purple
+- Xom portal from some blue to violet
+- Belweir door from purple to violet
 
 **Textures**
 - Revamped *many* spell icons
@@ -20,6 +23,7 @@
 - Cadence from red to yellow eyes
 - Spiked pits now have only one big spike
 - Tile and Text clicking icons now in corner triangles style, and now blue
+- Xom portal glyph to capital Omega
 
 **Fixes**
 - Burning tree tiles now have proper background
