@@ -1,6 +1,7 @@
-# Terminal Blues: A POWDER Tileset in CP437*
+# Terminal Blues: A POWDER Tileset in CP437
 
 ## by [PropFeds](https://deviantart.com/propfeds)
+Your Hacklike reimagined in a deep blue terminal aesthetic. Featuring monsters and items as CP437* glyphs, as well as a few custom fonts.
 
 ### Installation instructions:
 **0.** Head to your favourite release and download, or clone the master to catch any work-in-progress changes, because image layers are a form of source control anyway.

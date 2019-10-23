@@ -2,6 +2,7 @@
 **Features**
 - Blightbulb: A new font, replacing the Classic font
 - Brass Blues: A new look for the Brass font
+- Minecraft: A font replacing the Heavy font (Jeff's fault it's listed as Light in-game)
 
 **Colours**
 - Dirt path from burgundy to earth green
