@@ -1,7 +1,7 @@
 # Terminal Blues: A POWDER Tileset in CP437
 
 ## by [PropFeds](https://deviantart.com/propfeds)
-Your Hacklike reimagined in a deep blue terminal aesthetic. Featuring monsters and items as CP437* glyphs, as well as a few custom fonts.
+The Hacklike reimagined in a deep blue terminal aesthetic. Featuring monsters and items as CP437 glyphs[*](#*Heresy:).
 
 ### Installation instructions:
 **0.** Head to your favourite release and download, or clone the master to catch any work-in-progress changes. No extra branches, because image layers are a form of source control anyway.
@@ -13,12 +13,12 @@ Your Hacklike reimagined in a deep blue terminal aesthetic. Featuring monsters a
 - Windows, Mac, Linux: Copy/cut the gfx folder inside the desired variant to your POWDER directory.
 - Handheld versions: You'll need to compile the game with this tileset included.
 
-**3.** Extra options: Found inside each variant. Override the bmp files in the gfx folder inside POWDER directory to apply.
+**3.** Options: Found inside each variant. Override the bmp files in the gfx folder inside POWDER directory to apply.
 - equipment: Will display worn equipment on the @ tile.
 
 **4.** Apply: Within POWDER, go to Options > Tiles > From Disk.
 
-**5.** Extra fonts: Custom fonts are available with the release. Head to Options > Fonts.
+**5.** Fonts: Custom fonts are available with the release. Head to Options > Fonts.
 - Brass: Not really a custom font, but a different texture of a regular font.
 - Classic: Replaced by Blightbulb, a self-made font.
 - Heavy (listed in Options as Light, damn Jeff): Replaced by the font of Minecraft.
@@ -32,4 +32,5 @@ Your Hacklike reimagined in a deep blue terminal aesthetic. Featuring monsters a
 
 ![Screenshot 4](extras/images/screenshots/screenshot4.png)
 
-*Some items have custom textures (HERESY!) for identification, and the spells are low-spec art with occasional CP437 character references.
+### *Heresy:
+Some items have custom textures for identification, and the spells are low-spec art with occasional CP437 character references.
