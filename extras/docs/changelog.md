@@ -16,6 +16,7 @@
 - Tree glyph from club to spade
 - UI mana icon now diamond instead of triangle, or small potion (depending on alphabet)
 - UI shield icons lost an arm (ouch)
+- Buckler glyph losing arms
 - Cadence from red to yellow eyes
 - Spiked pits now have only one big spike
 - Tile and Text clicking icons now in corner triangles style, and now blue
