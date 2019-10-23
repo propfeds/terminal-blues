@@ -4,19 +4,24 @@
 Your Hacklike reimagined in a deep blue terminal aesthetic. Featuring monsters and items as CP437* glyphs, as well as a few custom fonts.
 
 ### Installation instructions:
-**0.** Head to your favourite release and download, or clone the master to catch any work-in-progress changes, because image layers are a form of source control anyway.
+**0.** Head to your favourite release and download, or clone the master to catch any work-in-progress changes. No extra branches, because image layers are a form of source control anyway.
 
-**1.** Choose a variant folder:
+**1.** Variants: Terminal Blues comes with at least one variant:
 - blues: The regular Terminal Blues experience.
 
-**2.** Install Terminal Blues:
+**2.** Install:
 - Windows, Mac, Linux: Copy/cut the gfx folder inside the desired variant to your POWDER directory.
 - Handheld versions: You'll need to compile the game with this tileset included.
 
-**3.** Extra options: found inside each variant. Override the bmp files in the gfx folder inside POWDER directory to apply.
+**3.** Extra options: Found inside each variant. Override the bmp files in the gfx folder inside POWDER directory to apply.
 - equipment: Will display worn equipment on the @ tile.
 
-**4.** Apply the tileset by starting POWDER and go to Options > Tiles > From Disk.
+**4.** Apply: Within POWDER, go to Options > Tiles > From Disk.
+
+**5.** Extra fonts: Custom fonts are available with the release. Head to Options > Fonts.
+- Brass: Not really a custom font, but a different texture of a regular font.
+- Classic: Replaced by Blightbulb, a self-made font.
+- Heavy (listed in Options as Light, damn Jeff): Replaced by the font of Minecraft.
 
 ### Screenshots (v1.0):[**](extras/images/screenshots/note.txt)
 ![Screenshot 1](extras/images/screenshots/screenshot1.png)
