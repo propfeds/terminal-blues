@@ -22,6 +22,7 @@
 
 **Fixes**
 - Realigned hashes in some alphabets
+- Fixed shadow width in Light font
 
 ### 1.0.1: Polymorph
 **Features**
