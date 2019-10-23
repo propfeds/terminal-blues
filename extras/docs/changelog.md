@@ -21,6 +21,7 @@
 - Tile and Text clicking icons now in corner triangles style, and now blue
 
 **Fixes**
+- Burning tree tiles now have proper background
 - Realigned hashes in some alphabets
 - Fixed shadow width in Light font
 
