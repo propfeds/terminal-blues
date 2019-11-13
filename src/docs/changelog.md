@@ -3,13 +3,13 @@
 ## 1.1: Spelling Reform (WIP)
 From now on, binaries will be available, with only the tileset and no source.
 
-#### New Features
+### New Features
 - Blightbulb: A new font, replacing the Classic font
 - Brass Blues: A new look for the Brass font
 - Minecraft: A font replacing the Heavy font (Listed as Light in-game)
 - Revamped *many* spell icons
 
-#### Fixes
+### Fixes
 - Adjusted most of the equipment (variant) glyphs on the @
 - New changelog format (hopefully it looks okay)
 - Fixed burning tree tiles not having background
@@ -19,7 +19,7 @@ From now on, binaries will be available, with only the tileset and no source.
 - UI buttons now square to be consistent with inventory
 - Tile and Text selection icons are now corner triangles and now blue to be consistent with the theme
 
-#### Colours
+### Colours
 - Dirt path from burgundy to earth green
 - Darker walls for Xom spaceship and room walls
 - Darker regular pits
@@ -36,7 +36,7 @@ From now on, binaries will be available, with only the tileset and no source.
 - Purple tridude from violet to purple
 - Darker blessed and cursed inventory slots
 
-#### Glyphs
+### Glyphs
 - UI action buttons now use 12px font instead of 16px
 - UI mana icon now diamond instead of triangle, or small potion (depending on alphabet)
 
@@ -55,10 +55,16 @@ From now on, binaries will be available, with only the tileset and no source.
 - Orc glyph from O with weird strike to O with umlauts
 
 ### 1.0.1: Polymorph
-**Features**
+
+### New Features
 - UI icons (heart, magic hat, etc.) are now CP437 characters
 
-**Colours**
+### Fixes
+- Stairs to room blue on UI
+- Small terminal black patches leftover in alphabets
+- @ potion from iron blue to teal
+
+### Colours
 - Water and stone now same shade
 - Darker unlearned spell borders
 - Changed tridude colours
@@ -66,26 +72,27 @@ From now on, binaries will be available, with only the tileset and no source.
 - Action icons for character actions from yellow to teal (because it's more blue)
 - Breathing icon from purple to teal
 - Animated trees to light green and w/o dark eyes
-
-**Fixes**
-- Stairs to room blue on UI
-- Small terminal black patches leftover in alphabets
-- @ potion from iron blue to teal
-
-**Textures**
 - Kobold fighter from violet to room blue, because
+
+### Glyphs
 - Aflame effect from some weird upside down commas to a double quote
 - Better looking amulets and mallets
 - Animate Tree spell icon now has red eyes
 - Flash spell icon: reduced lens flare
 
 ## 1.0: Release
-**Features**
+
+### New Features
 - New UI icons (letters) for actions
 - New UI icons for spells (No ASCII!)
 - Option to enable equipment on @
 
-**Colours**
+### Fixes
+- Sign not surrounded by floor
+- Fixed several blue items into wooden brown
+- Iron helmet displaying as silver white instead of iron blue
+
+### Colours
 - Modified the entire palette multiple times to please Jeff Lait's mysterious formula for minimap and unlearned spell colours
 - Asian male and teal-skinned female
 - (Re-)coloured all the books, pots and wands
@@ -98,7 +105,7 @@ From now on, binaries will be available, with only the tileset and no source.
 - Consistency: Now all electric enemies are yellow
 - Stairs now wall blue
 
-**Textures**
+### Glyphs
 - Retextured Belweir's altar from some shit to underscore
 - Retextured chainmail
 - Retextured plaid book for how many umpteen times
@@ -112,11 +119,6 @@ From now on, binaries will be available, with only the tileset and no source.
 - Beelzebub glyph from & to B
 - Glowing y-rune glyph from y to Japanese yen
 - Traps now solid colour (except spikes)
-
-**Fixes**
-- Sign not surrounded by floor
-- Fixed several blue items into wooden brown
-- Iron helmet displaying as silver white instead of iron blue
 
 ### 0.2: Raise Your Weapons
 - More wooden objects turn brown from wall blue
