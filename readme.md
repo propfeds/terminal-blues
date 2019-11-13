@@ -1,5 +1,5 @@
 # Terminal Blues: A POWDER Tileset in CP437
-### by [PropFeds](https://deviantart.com/propfeds)
+## by [PropFeds](https://deviantart.com/propfeds)
 The Hacklike reimagined in a deep blue terminal aesthetic. Featuring monsters and items as CP437 glyphs[^1].
 
 ## Instructions
@@ -34,4 +34,5 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring monsters an
 
 [Tile List](src/docs/tilelist.md)
 
+### Footnotes
 [^1]: Some items have custom textures for identification, and the spells are low-spec art with occasional CP437 character references.

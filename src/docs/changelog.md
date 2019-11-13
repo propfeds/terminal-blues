@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.1: Spelling Reform
+## 1.1: Spelling Reform (WIP)
 From now on, binaries will be available, with only the tileset and no source.
 
 #### New Features
