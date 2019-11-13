@@ -1,6 +1,9 @@
 # Terminal Blues: A POWDER Tileset in CP437
-## by [PropFeds](https://deviantart.com/propfeds)
-The Hacklike reimagined in a deep blue terminal aesthetic. Featuring monsters and items as CP437 glyphs[^1].
+## by PropFeds
+The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
+- Terrain, monsters and items in Code Page 437/Extended ASCII/ANSI/what-you-call-it[^1]
+- (??? Heresy) Spell icons completely in 14px pixel-art
+- Custom fonts
 
 ## Instructions
 **0.** Head to your favourite release and download, or clone the master to catch any work-in-progress changes, as well as obtain the holy source of the tileset and extra content.
@@ -17,7 +20,7 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring monsters an
 
 **4. Apply:** Within POWDER, go to Options > Tiles > From Disk.
 
-**5. Fonts:** Custom fonts are available with the release. Head to Options > Fonts.
+**5. Fonts:** Several custom fonts are available within the tileset. Head to Options > Fonts in-game to change the font.
 - Brass Blues: The Brass font with a new blue coat of paint.
 - Classic: Replaced by the font of Minecraft.
 - Light (listed in Options as Light): Replaced by Blightbulb, a custom font.
@@ -34,5 +37,5 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring monsters an
 
 [Tile List](src/docs/tilelist.md)
 
-### Footnotes
-[^1]: Some items have custom textures for identification, and the spells are low-spec art with occasional CP437 character references.
+### Notes
+[^1]: Some items have custom textures for ease of identification.
