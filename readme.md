@@ -23,10 +23,13 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 **5. Fonts:** Several custom fonts are available within the tileset. Head to Options > Fonts in-game to change the font.
 - Brass Blues: The Brass font with a new blue coat of paint.
 - Classic: Replaced by the font of Minecraft.
-- Light (listed in Options as Light): Replaced by Blightbulb, a custom font.
+- Light (listed in Options as Light, but [why?](src/docs/quirks_questions.md?#why-are-the-heavy-and-light-fonts-swapped): Replaced by Blightbulb, a custom font.
 
 ## Screenshots
 1.1: Spelling Reform is under construction. No screenshots are available!
+
+## Feedback
+Feedback is very very much appreciated. Either use GitHub's Issues feature, or head to `#powder` on the roguelikes Discord guild.
 
 ## Documentation
 [Full Changelog](src/docs/changelog.md)
