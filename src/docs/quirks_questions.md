@@ -7,12 +7,12 @@ It'll never be done. Please do give [feedback](../../readme.md#feedback).
 I use no extra branches, because image layers are a form of source control anyway, and are easier to manage.
 
 ### Why are the Heavy and Light fonts swapped?
-
+Jeff's font listing is swapped on those two as of v117. Not even my fault.
 
 ### Why are my in-game colours ugly?
 POWDER converts the palette into 5-bit RGB to be GBA compatible. That's why the palette on the social cards and such looks different from in-game.
 
-### What are all symbols that don't follow the roguelike semiotics ? (list unfinished)
+### What are all symbols that don't follow the roguelike semiotics? (list unfinished)
 - `#`   Boulders
 - `░▒▓` Walls (`░` also for smoke)
 - `⌂`   Potions
