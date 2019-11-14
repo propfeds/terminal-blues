@@ -1,17 +1,18 @@
 # Changelog
 
 ## 1.1: Spelling Reform (WIP)
-From now on, binaries will be available, with only the tileset and no source.
+From this version onwards, binaries will be available, with only the tileset and no source.
 
 ### New Features
-- Blightbulb: A new font, replacing the Classic font
-- Brass Blues: A new look for the Brass font
-- Minecraft: A font replacing the Heavy font (Listed as Light in-game)
-- Revamped *many* spell icons
+- Revamped *a lot of* spell icons
+- New fonts!
+    - Classic: Replaced by the Minecraft font (hopefully without copyright risks)
+    - Brass Blues: A new coat of paint for the Brass font
+    - Blightbulb: A feeble attempt at making a font to replace the Light font (Listed as Heavy in-game, blame Jeff.)
 
 ### Fixes
 - Adjusted most of the equipment (variant) glyphs on the @
-- New changelog format (hopefully it looks okay)
+- Reformatted the changelog
 - Fixed burning tree tiles not having background
 - Realigned hashes in some alphabets
 - Fixed inconsistent shadow width in Light font
@@ -28,7 +29,6 @@ From now on, binaries will be available, with only the tileset and no source.
 - Y rune from iron blue to purple
 - Xom portal from some blue to violet
 - Belweir door from purple to violet
-
 - Regular slug from blue to gold
 - Chameleon from blue to purple
 - Frog from blue to green
@@ -39,7 +39,6 @@ From now on, binaries will be available, with only the tileset and no source.
 ### Glyphs
 - UI action buttons now use 12px font instead of 16px
 - UI mana icon now diamond instead of triangle, or small potion (depending on alphabet)
-
 - UI shield icons (theta) on terminal fonts lost an arm (ouch)
 - Buckler Theta glyph losing arms
 - Kite shield glyph losing ears
@@ -47,7 +46,6 @@ From now on, binaries will be available, with only the tileset and no source.
 - Realigned and resized some shields on @
 - Acid Hand on @ now is fully gold
 - Torch body from orange to brown
-
 - Spiked pits are now spikeless, but brighter pits than regular ones
 - Xom portal glyph to capital Omega
 - Tree glyph from club to spade
