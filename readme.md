@@ -9,32 +9,28 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 1.1: Spelling Reform is under construction. No screenshots are available!
 
 ## Instructions
-**0. Download**
-
+### 0. Download
 Head to your favourite release and download, or clone the master to catch any work-in-progress changes, as well as obtain the holy source of the tileset and extra content.
 
-**1. Variants**
-
+### 1. Variants
 Terminal Blues comes with at least one variant:
 - blues: The regular Terminal Blues experience.
 
-**2. Options**
-
+### 2. Options
 Found inside each variant. Override (you may want to backup) the regular bmp files to apply.
 - equipment: Will display worn equipment on the @ tile.
 
-**3. Go Blue**
+### 3. Go Blue
 - Windows, Mac, Linux:
     - Copy/cut the gfx folder inside the desired variant folder to your POWDER directory.
     - Within POWDER, go to Options > Tiles > From Disk.
 - Handheld versions: You'll need to compile the game with this tileset included.
 
-**4. Fonts**
-
+### 4. Fonts
 Several custom fonts are available within the tileset. Head to Options > Fonts in-game to change the font.
 - Brass Blues: The Brass font with a new blue coat of paint.
 - Classic: Replaced by the font of Minecraft.
-- Light (listed in Options as Light, but [why?](src/docs/quirks_questions.md?#why-are-the-heavy-and-light-fonts-swapped): Replaced by Blightbulb, a custom font.
+- Light (listed in Options as Heavy, but [why?](src/docs/quirks_questions.md?#why-are-the-heavy-and-light-fonts-swapped): Replaced by Blightbulb, a custom font.
 
 ## Feedback
 Feedback is very very much appreciated. Either use GitHub's Issues feature, or head to `#powder` on the roguelikes Discord guild.
@@ -48,5 +44,5 @@ Feedback is very very much appreciated. Either use GitHub's Issues feature, or h
 
 [Tile List](src/docs/tilelist.md)
 
-### Notes
+### Footnotes
 [^1]: Some items have custom textures for ease of identification.
