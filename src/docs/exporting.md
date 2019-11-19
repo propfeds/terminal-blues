@@ -3,6 +3,7 @@
 Should you feel the need to edit the tileset to your liking, the holy source is there for you. All you need is:
 - A copy of Aseprite, bought from [Steam](https://store.steampowered.com/app/431730/Aseprite) or compiled from the [repo](https://github.com/aseprite/aseprite).
 - An installation of [Python](https://www.python.org) (for the font).
+    - The [Pillow](https://pypi.org/project/Pillow) package (any version that has the Image class should work).
 
 ## Source
 There are two aseprite files within the repository: [Terminal Blues](../master.aseprite) and the font of [Blightbulb](../fonts/blightbulb/blightbulb_8x8.aseprite).

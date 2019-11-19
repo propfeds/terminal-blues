@@ -4,9 +4,9 @@ function script_path()
  end
  
 function export(sprite, directory, variant, equipment)
-    local layer_bg=sprite.layers[3].layers[2]
-    local prev_state_bg=layer_bg.isVisible
-    layer_bg.isVisible=false
+    local layer_folder_ref=sprite.layers[3]
+    local prev_state_bg=layer_folder_ref.isVisible
+    layer_folder_ref.isVisible=false
 
     local layer_equipment=sprite.layers[4].layers[3].layers[2]
     local prev_state_equipment=layer_equipment.isVisible
@@ -30,7 +30,7 @@ function export(sprite, directory, variant, equipment)
 
     layer_equipment.isVisible=prev_state_equipment
 
-    layer_bg.isVisible=prev_state_bg
+    layer_folder_ref.isVisible=prev_state_bg
 end
 
 local open=io.open
