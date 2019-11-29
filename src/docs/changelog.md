@@ -8,7 +8,10 @@ From this version onwards, binaries will be available, with only the tileset and
 - New fonts!
     - Classic: Replaced by the Minecraft font (hopefully without copyright risks)
     - Brass Blues: A new coat of paint for the Brass font
-    - Blightbulb: A feeble attempt at making a font to replace the Light font (Listed as Heavy in-game, blame Jeff.)
+    - Blightbulb: A feeble attempt at making a font to replace the Light font
+    - Leafletter (Not In Progress): Another feeble attempt at making a font to replace the Heavy font
+    - (!) Note that the Heavy and Light fonts are swapped in-game
+- All entities now have surrounding outlines
 
 ### Fixes
 - Adjusted most of the equipment (variant) glyphs on the @
@@ -21,6 +24,9 @@ From this version onwards, binaries will be available, with only the tileset and
 - Tile and Text selection icons are now corner triangles and now blue to be consistent with the theme
 
 ### Colours
+- Hopefully this is the last time I'm changing the palette (barring variants):
+    - Paler iron blue
+    - Hue shifted ice teal towards a greener future
 - Dirt path from burgundy to earth green
 - Darker walls for Xom spaceship and room walls
 - Darker regular pits
@@ -35,10 +41,12 @@ From this version onwards, binaries will be available, with only the tileset and
 - Kite shield from violet to red
 - Purple tridude from violet to purple
 - Darker blessed and cursed inventory slots
+- Increased contrast between Orcs and Hill Orcs, as well as Kobolds and Stronger Kobolds
 
 ### Glyphs
 - UI action buttons now use 12px font instead of 16px
 - UI mana icon now diamond instead of triangle, or small potion (depending on alphabet)
+- UI Wish/Favourite icons (they reuse the same sprite) from `&` (Wishing hotkey, but *not* Favouriting hotkey) to a star (as if they were spells!)
 - UI shield icons (theta) on terminal fonts lost an arm (ouch)
 - Buckler Theta glyph losing arms
 - Kite shield glyph losing ears

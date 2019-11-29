@@ -6,7 +6,13 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 - Custom fonts
 
 ## Screenshots
-1.1: Spelling Reform is under construction. No screenshots are available!
+1.1: Spelling Reform is under construction. Screenshots may not be final!
+
+![Screenshot 0](extras/presskit/screenshot-0.png "Under Siege")
+
+![Screenshot 1](extras/presskit/screenshot-1.png "The Big B")
+
+![Screenshot 2](extras/presskit/screenshot-2.png "Space Odyssey")
 
 ## Instructions
 ### 0. Download
