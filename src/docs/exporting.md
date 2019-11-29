@@ -9,7 +9,7 @@ Should you feel the need to edit the tileset to your liking, the holy source is 
 There are two aseprite files within the repository: [Terminal Blues](../master.aseprite) and the font of [Blightbulb](../fonts/blightbulb/blightbulb_8x8.aseprite).
 
 ### Terminal Blues
-The Terminal Blues [export script](../terminal_blues_export.lua)'s name should suggest what it does. Does not require an installation of Lua.
+The Terminal Blues [export script](../export.lua)'s name should suggest what it does. Does not require an installation of Lua.
 
 0. Edit `master.aseprite` at your own will.
 1. Copy or move it to Aseprite's script folder (`%appdata%/Aseprite/scripts/` for Windows).

@@ -18,21 +18,22 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 ### 0. Download
 Head to your favourite release and download, or clone the master to catch any work-in-progress changes, as well as obtain the holy source of the tileset and extra content.
 
-### 1. Variants
+### 1. Go Blue
 Terminal Blues comes with at least one variant:
 - blues: The regular Terminal Blues experience.
+- true_blues: Maybe a little bit different of an experience? Does not unlock the full terminal power.
+
+On Windows, Mac, Linux:
+    - Copy the gfx folder inside the desired variant folder to your POWDER directory.
+    - Within POWDER, go to Options > Tiles > From Disk.
+
+On handheld versions: You'll need to compile the game with this tileset included.
 
 ### 2. Options
-Found inside each variant. Override (you may want to backup) the regular bmp files to apply.
+Found inside some variants. Override in gfx to apply.
 - equipment: Will display worn equipment on the @ tile.
 
-### 3. Go Blue
-- Windows, Mac, Linux:
-    - Copy/cut the gfx folder inside the desired variant folder to your POWDER directory.
-    - Within POWDER, go to Options > Tiles > From Disk.
-- Handheld versions: You'll need to compile the game with this tileset included.
-
-### 4. Fonts
+### 3. Fonts
 Several custom fonts are available within the tileset. Head to Options > Fonts in-game to change the font.
 - Brass Blues: The Brass font with a new blue coat of paint.
 - Classic: Replaced by the font of Minecraft.
