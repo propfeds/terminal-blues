@@ -15,7 +15,7 @@ The Terminal Blues [export script](../export.lua)'s name should suggest what it 
 1. Copy or move it to Aseprite's script folder (`%appdata%/Aseprite/scripts/` for Windows).
 2. In the script folder, create a file named `dir.txt` only containing the Terminal Blues directory.
 3. Open `master.aseprite` inside Aseprite. Make sure `master.aseprite` is the focused window.
-4. Go to Files > Scripts > `terminal_blues_export`. The export should be inside the Terminal Blues directory.
+4. Go to Files > Scripts > `terminal_blues_export`. The export should appear within the `export` folder.
 
 ### Blightbulb the Font
 The Blightbulb [export script](../fonts/blightbulb/blightbulb_export.py) also does what it says! Requires an installation of Python.

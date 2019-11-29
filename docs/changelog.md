@@ -11,7 +11,7 @@ From this version onwards, binaries will be available, with only the tileset and
     - Blightbulb: A feeble attempt at making a font to replace the Light font
     - Leafletter (Not In Progress): Another feeble attempt at making a font to replace the Heavy font
     - (!) Note that the Heavy and Light fonts are swapped in-game
-- All entities now have surrounding outlines
+- All entities now have drop shadows in order to not be swallowed up by background traps
 
 ### Fixes
 - Adjusted most of the equipment (variant) glyphs on the @
