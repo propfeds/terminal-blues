@@ -1,19 +1,22 @@
 # Changelog
 
 ## 1.1: Spelling Reform (WIP)
+
 From this version onwards, binaries will be available, with only the tileset and no source.
 
 ### New Features
+
 - Revamped *a lot of* spell icons
 - New fonts!
-    - Classic: Replaced by the Minecraft font (hopefully without copyright risks)
-    - Brass Blues: A new coat of paint for the Brass font
-    - Blightbulb: A feeble attempt at making a font to replace the Light font
-    - Leafletter (Not In Progress): Another feeble attempt at making a font to replace the Heavy font
-    - (!) Note that the Heavy and Light fonts are swapped in-game
+  - Classic: Replaced by the Minecraft font (hopefully without copyright risks)
+  - Brass Blues: A new coat of paint for the Brass font
+  - Blightbulb: A feeble attempt at making a font to replace the Light font
+  - Leafletter (Not In Progress): Another feeble attempt at making a font to replace the Heavy font
+  - (!) Note that the Heavy and Light fonts are swapped in-game
 - All entities now have drop shadows in order to not be swallowed up by background traps
 
 ### Fixes
+
 - Adjusted most of the equipment (variant) glyphs on the @
 - Reformatted the changelog
 - Fixed burning tree tiles not having background
@@ -24,9 +27,10 @@ From this version onwards, binaries will be available, with only the tileset and
 - Tile and Text selection icons are now corner triangles and now blue to be consistent with the theme
 
 ### Colours
+
 - Hopefully this is the last time I'm changing the palette (barring variants):
-    - Paler iron blue
-    - Hue shifted ice teal towards a greener future
+  - Paler iron blue
+  - Hue shifted ice teal towards a greener future
 - Dirt path from burgundy to earth green
 - Darker walls for Xom spaceship and room walls
 - Darker regular pits
@@ -44,6 +48,7 @@ From this version onwards, binaries will be available, with only the tileset and
 - Increased contrast between Orcs and Hill Orcs, as well as Kobolds and Stronger Kobolds
 
 ### Glyphs
+
 - UI action buttons now use 12px font instead of 16px
 - UI mana icon now diamond instead of triangle, or small potion (depending on alphabet)
 - UI Wish/Favourite icons (they reuse the same sprite) from `&` (Wishing hotkey, but *not* Favouriting hotkey) to a star (as if they were spells!)
@@ -63,15 +68,18 @@ From this version onwards, binaries will be available, with only the tileset and
 
 ### 1.0.1: Polymorph
 
-### New Features
+New Features:
+
 - UI icons (heart, magic hat, etc.) are now CP437 characters
 
-### Fixes
+Fixes:
+
 - Stairs to room blue on UI
 - Small terminal black patches leftover in alphabets
 - @ potion from iron blue to teal
 
-### Colours
+Colours:
+
 - Water and stone now same shade
 - Darker unlearned spell borders
 - Changed tridude colours
@@ -81,7 +89,8 @@ From this version onwards, binaries will be available, with only the tileset and
 - Animated trees to light green and w/o dark eyes
 - Kobold fighter from violet to room blue, because
 
-### Glyphs
+Glyphs:
+
 - Aflame effect from some weird upside down commas to a double quote
 - Better looking amulets and mallets
 - Animate Tree spell icon now has red eyes
@@ -89,17 +98,20 @@ From this version onwards, binaries will be available, with only the tileset and
 
 ## 1.0: Release
 
-### New Features
+New Features:
+
 - New UI icons (letters) for actions
 - New UI icons for spells (No ASCII!)
 - Option to enable equipment on @
 
-### Fixes
+Fixes:
+
 - Sign not surrounded by floor
 - Fixed several blue items into wooden brown
 - Iron helmet displaying as silver white instead of iron blue
 
-### Colours
+Colours:
+
 - Modified the entire palette multiple times to please Jeff Lait's mysterious formula for minimap and unlearned spell colours
 - Asian male and teal-skinned female
 - (Re-)coloured all the books, pots and wands
@@ -112,7 +124,8 @@ From this version onwards, binaries will be available, with only the tileset and
 - Consistency: Now all electric enemies are yellow
 - Stairs now wall blue
 
-### Glyphs
+Glyphs:
+
 - Retextured Belweir's altar from some shit to underscore
 - Retextured chainmail
 - Retextured plaid book for how many umpteen times
@@ -128,11 +141,13 @@ From this version onwards, binaries will be available, with only the tileset and
 - Traps now solid colour (except spikes)
 
 ### 0.2: Raise Your Weapons
+
 - More wooden objects turn brown from wall blue
 - Kite shield looks less ugly
 - Raise your weapons!
 
 ### 0.1: Arcane Dust
+
 - No longer a difference between men and women (now both silvery white)
 - Lighter silver, iron and wall shade
 - Fixed winged shoes (now brown instead of wall blue)
@@ -143,4 +158,5 @@ From this version onwards, binaries will be available, with only the tileset and
 - Blood red shade more violent/vibrant
 
 ## 0.0: Spawn
+
 - Spawned
