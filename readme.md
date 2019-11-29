@@ -24,8 +24,8 @@ Terminal Blues comes with at least one variant:
 - true_blues: Maybe a little bit different of an experience? Does not unlock the full terminal power.
 
 On Windows, Mac, Linux:
-    - Copy the gfx folder inside the desired variant folder to your POWDER directory.
-    - Within POWDER, go to Options > Tiles > From Disk.
+- Copy the gfx folder inside the desired variant folder to your POWDER directory.
+- Within POWDER, go to Options > Tiles > From Disk.
 
 On handheld versions: You'll need to compile the game with this tileset included.
 
