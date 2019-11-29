@@ -48,6 +48,7 @@ From this version onwards, binaries will be available, with only the tileset and
 - UI mana icon now diamond instead of triangle, or small potion (depending on alphabet)
 - UI Wish/Favourite icons (they reuse the same sprite) from `&` (Wishing hotkey, but *not* Favouriting hotkey) to a star (as if they were spells!)
 - UI shield icons (theta) on terminal fonts lost an arm (ouch)
+- UI inventory hashes (artifacts) now have a shadow
 - Buckler Theta glyph losing arms
 - Kite shield glyph losing ears
 - Tower shield glyph to capital Theta

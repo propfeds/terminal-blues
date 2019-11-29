@@ -17,7 +17,7 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 
 ![Screenshot 2](extras/presskit/screenshot-2.png "Space Odyssey")
 
-## Instructions (How to be Blue)
+## Instructions (How to Become Blue)
 Head to your favourite release and download, or clone the master to catch any work-in-progress changes, as well as obtain the holy source of the tileset and extra content.
 
 Terminal Blues comes with at least one variant:
