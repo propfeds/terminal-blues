@@ -6,20 +6,20 @@ Should you feel the need to edit the tileset to your liking, the holy source is 
     - The [Pillow](https://pypi.org/project/Pillow) package (any version that has the Image class should work).
 
 ## Source
-There are two aseprite files within the repository: [Terminal Blues](../master.aseprite) and the font of [Blightbulb](../fonts/blightbulb/blightbulb_8x8.aseprite).
+There are two aseprite files within the repository: [Terminal Blues](../master.aseprite) and the fonts of [Blightbulb & Leafletter](../fonts/blightbulb/blightbulb_leafletter.aseprite).
 
 ### Terminal Blues
 The Terminal Blues [export script](../export.lua)'s name should suggest what it does. Does not require an installation of Lua.
 
 0. Edit `master.aseprite` at your own will.
-1. Copy or move it to Aseprite's script folder (`%appdata%/Aseprite/scripts/` for Windows).
-2. In the script folder, create a file named `dir.txt` only containing the Terminal Blues directory.
-3. Open `master.aseprite` inside Aseprite. Make sure `master.aseprite` is the focused window.
-4. Go to Files > Scripts > `terminal_blues_export`. The export should appear within the `export` folder.
+1. Copy or move `export.lua` to Aseprite's script folder (`%appdata%/Aseprite/scripts/` for Windows).
+2. Open `master.aseprite`, and make sure `master.aseprite` is the currently active window within the program.
+3. Go to Files > Scripts > `export`. The export should appear within the `export` folder.
 
-### Blightbulb the Font
-The Blightbulb [export script](../fonts/blightbulb/blightbulb_export.py) also does what it says! Requires an installation of Python.
+### Blightbulb & Leafletter the Fonts
+The [CP437 to POWDER script](../fonts/cp437_to_powder.py) converts a 128x128 ANSI bitmap to the POWDER format. Only works with square fonts!
 
-0. Edit `blightbulb_8x8.aseprite` at your own will.
-1. Run the export script. An `alphabet_classic_raw.png` will appear before your eyes.
-2. Do all sorts of post-processing on it like how it should be done in other alphabets, then stick it onto `master.aseprite`.
+0. Edit `blightbulb_leafletter.aseprite` at your own will, or cook up a new font!
+1. Export to `<font_name>.png`.
+2. Run the `cp437_to_powder` script and input your `<font_name>`. A `<font_name>_powder.png` will appear before your eyes.
+3. Do all sorts of post-processing on it like how it should be done in other alphabets, then stick it onto `master.aseprite`.
