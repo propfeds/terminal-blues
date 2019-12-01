@@ -31,7 +31,7 @@ From this version onwards, binaries will be available, with only the tileset and
 - As an experiment, the ugly shade of pink flesh is no longer used in `dungeon16.bmp`, and now replaced by Simpsonian skin
 - Hopefully this is the last time I'm changing the palette (barring variants):
   - Paler iron blue
-  - Hue shifted ice teal towards a greener future
+  - Desaturated, and hue shifted ice teal towards a greener future
 - Dirt path from burgundy to earth green
 - Darker walls for Xom spaceship and room walls
 - Darker regular pits

@@ -4,14 +4,14 @@
 
 I use no extra branches, because image layers are easier to manage, and are sort of a form of source control.
 
-## The Heavy and Light fonts are swapped
+## My Heavy and Light fonts are swapped
 
-Jeff's font listing in-game is swapped on those two as of v118. Not even my fault.
+As of v118, Jeff's font listing in-game is swapped on those two when using a loaded tileset.
+'Official' tilesets (ones that are included on compile) have the correct listing.
 
 ## My in-game colours are ugly
 
 POWDER converts the palette into 5-bit RGB to be GBA compatible.
-
 That's why the palette on the social cards and such looks different from in-game.
 
 ## What are all symbols that don't follow the roguelike semiotics? (list unfinished)
