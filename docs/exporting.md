@@ -12,10 +12,10 @@ There are two aseprite files within the repository: [Terminal Blues](../master.a
 
 The Terminal Blues [export script](../export.lua)'s name should suggest what it does. Does not require an installation of Lua.
 
-1. Edit `master.aseprite` at your own will.
+1. Edit `master.aseprite` at your own will. Note that inside the sprite there are layers with prefixing numbers. The prefixing numbers are the layers' order within their folder (lowest is 1, counting up the list). These layers will be toggled in the script, so make sure the orders in the sprite and the script match.
 2. Copy or move `export.lua` to Aseprite's script folder (`%appdata%/Aseprite/scripts/` for Windows).
 3. Open `master.aseprite`, and make sure `master.aseprite` is the currently active window within the program.
-4. Go to Files > Scripts > `export`. The export should appear within the `export` folder.
+4. Go to Files > Scripts > `export`. The export should appear within the `export` folder of the repository.
 
 ## Blightbulb & Leafletter the Fonts
 

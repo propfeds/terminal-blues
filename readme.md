@@ -8,22 +8,12 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 - (??? Heresy) Spell icons completely in 14px pixel-art
 - Custom fonts: Head to Options > Fonts in-game to change the font.
   - Brass Blues: The Brass font with a new blue coat of paint.
-  - Classic: Replaced by the font in Minecraft.
+  - Classic: Replaced by the font from the MSX machines.
   - Light (listed in Options as Heavy, but [why?](docs/quirks_questions.md?#the-reason-the-heavy-and-light-fonts-are-swapped): Replaced by Blightbulb, a custom font.
 
-## Screenshots
+## Instructions
 
-1.1: Spelling Reform is under construction. Screenshots may not be final!
-
-![Screenshot 0](extras/presskit/screenshot-0.png "Under Siege")
-
-![Screenshot 1](extras/presskit/screenshot-1.png "The Big B")
-
-![Screenshot 2](extras/presskit/screenshot-2.png "Space Odyssey")
-
-## Instructions (How to Become Blue)
-
-Head to your favourite release and download, or clone the master to catch any work-in-progress changes, as well as obtain the holy source of the tileset and extra content.
+Head to your favourite release and download, or clone the master to catch any work-in-progress changes, as well as obtain the holy source of the tileset and extra content. If you have decided to clone, the tileset is in [export](export/).
 
 Terminal Blues comes with at least one variant:
 
@@ -40,6 +30,16 @@ On Windows, Mac, Linux:
 
 On handheld versions: You'll need to compile the game with this tileset included.
 
+## Screenshots
+
+1.1: Spelling Reform is under construction. Screenshots may not be final!
+
+![Screenshot 0](extras/presskit/screenshot-0.png "Under Siege")
+
+![Screenshot 1](extras/presskit/screenshot-1.png "The Big B")
+
+![Screenshot 2](extras/presskit/screenshot-2.png "Space Odyssey")
+
 ## Feedback
 
 Feedback is much appreciated. Here are the ways you can give them:
@@ -49,6 +49,8 @@ Feedback is much appreciated. Here are the ways you can give them:
 - My [development guild](https://discord.gg/AxMZJyg), at `#slither-dither`.
 
 ## Documentation
+
+Be noted, markdown (`.md`) documents can be opened in a text editor.
 
 [Full Changelog](docs/changelog.md)
 

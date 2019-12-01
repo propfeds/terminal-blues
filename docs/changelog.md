@@ -8,7 +8,7 @@ From this version onwards, binaries will be available, with only the tileset and
 
 - Revamped *a lot of* spell icons
 - New fonts!
-  - Classic: Replaced by the Minecraft font (hopefully without copyright risks)
+  - Classic: Replaced by the MSX font
   - Brass Blues: A new coat of paint for the Brass font
   - Blightbulb: A feeble attempt at making a font to replace the Light font
   - Leafletter (Not In Progress): Another feeble attempt at making a font to replace the Heavy font
@@ -28,6 +28,7 @@ From this version onwards, binaries will be available, with only the tileset and
 
 ### Colours
 
+- As an experiment, the ugly shade of pink flesh is no longer used in `dungeon16.bmp`, and now replaced by Simpsonian skin
 - Hopefully this is the last time I'm changing the palette (barring variants):
   - Paler iron blue
   - Hue shifted ice teal towards a greener future
