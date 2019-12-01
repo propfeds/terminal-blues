@@ -9,18 +9,31 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 - Custom fonts: Head to Options > Fonts in-game to change the font.
   - Brass Blues: The Brass font with a new blue coat of paint.
   - Classic: Replaced by the font from the MSX machines.
-  - Light (listed in Options as Heavy, but [why?](docs/quirks_questions.md?#the-reason-the-heavy-and-light-fonts-are-swapped): Replaced by Blightbulb, a custom font.
+  - Light ([listed in Options as Heavy](docs/quirks_questions.md#the-heavy-and-light-fonts-are-swapped)): Replaced by Blightbulb, a custom font.
 
 ## Instructions
 
-Head to your favourite release and download, or clone the master to catch any work-in-progress changes, as well as obtain the holy source of the tileset and extra content. If you have decided to clone, the tileset is in [export](export/).
+Head to the Releases section and download the latest version.
 
-Terminal Blues comes with at least one variant:
+Should you require the source, a WIP build and/or want extra content, clone the master branch.
+
+Terminal Blues comes with a few variants:
 
 - blues: The regular Terminal Blues experience.
-- true_blues: Maybe a little bit different of an experience? Does not unlock any full terminal power.
+- true_blues: Maybe a little bit different of an experience? Unlocks no full terminal power.
 
-On Windows, Mac, Linux:
+On Windows, Mac and Linux versions:
+
+- Create a folder in your POWDER directory named `gfx`.
+- Copy the bmps in your desired variant to `gfx`.
+- Some variants contain optional features. Obuild and/or want extra content, clone the master branch.
+
+Terminal Blues comes with a few variants:
+
+- blues: The regular Terminal Blues experience.
+- true_blues: Maybe a little bit different of an experience? Unlocks no full terminal power.
+
+On Windows, Mac and Linux versions:
 
 - Create a folder in your POWDER directory named `gfx`.
 - Copy the bmps in your desired variant to `gfx`.
@@ -40,14 +53,6 @@ On handheld versions: You'll need to compile the game with this tileset included
 
 ![Screenshot 2](extras/presskit/screenshot-2.png "Space Odyssey")
 
-## Feedback
-
-Feedback is much appreciated. Here are the ways you can give them:
-
-- Post an issue on GitHub
-- The [roguelikes Discord](https://discord.gg/tJt4kMM), at `#powder`
-- My [development guild](https://discord.gg/AxMZJyg), at `#slither-dither`.
-
 ## Documentation
 
 Be noted, markdown (`.md`) documents can be opened in a text editor.
@@ -59,6 +64,14 @@ Be noted, markdown (`.md`) documents can be opened in a text editor.
 [Quirks and Questions](docs/quirks_questions.md)
 
 [Tile List](docs/tilelist.md)
+
+## Contact
+
+Whether for feedback or for a simple Internet hug, these are the ways:
+
+- Post an issue on GitHub
+- The [roguelikes Discord](https://discord.gg/tJt4kMM), at `#powder`
+- My [development guild](https://discord.gg/AxMZJyg), at `#slither-dither`.
 
 ### Footnotes
 

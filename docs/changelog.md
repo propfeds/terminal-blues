@@ -8,11 +8,11 @@ From this version onwards, binaries will be available, with only the tileset and
 
 - Revamped *a lot of* spell icons
 - New fonts!
-  - Classic: Replaced by the MSX font
+  - Classic: Replaced by the MSX font, and soon to be overthrown
   - Brass Blues: A new coat of paint for the Brass font
   - Blightbulb: A feeble attempt at making a font to replace the Light font
-  - Leafletter (Not In Progress): Another feeble attempt at making a font to replace the Heavy font
-  - (!) Note that the Heavy and Light fonts are swapped in-game
+  - Leafletter (Not In Progress): Another feeble attempt at making a font ???
+  - **(!)** Note that the Heavy and Light fonts are swapped in-game
 - All entities now have drop shadows in order to not be swallowed up by background traps
 
 ### Fixes
@@ -51,8 +51,8 @@ From this version onwards, binaries will be available, with only the tileset and
 ### Glyphs
 
 - UI action buttons now use 12px font instead of 16px
-- UI mana icon now diamond instead of triangle, or small potion (depending on alphabet)
-- UI Wish/Favourite icons (they reuse the same sprite) from `&` (Wishing hotkey, but *not* Favouriting hotkey) to a star (as if they were spells!)
+- UI mana icon from a triangle to a diamond or potion depending on alphabet
+- UI Wish/Favourite icons (they reuse the same sprite) from `&` to a star
 - UI shield icons (theta) on terminal fonts lost an arm (ouch)
 - UI inventory hashes (artifacts) now have a shadow
 - Buckler Theta glyph losing arms

@@ -2,9 +2,9 @@ from pathlib import Path
 from PIL import Image
 
 font_name=input()
-tile_size=8
+font_cp=Image.open('{0}/{1}.png'.format(Path(__file__).parent, font_name))
 
-font_ascii=Image.open('{0}/{1}.png'.format(Path(__file__).parent, font_name))
+tile_size=font_cp.width//16
 font_powder=Image.new('RGB', (tile_size*10, tile_size*12))
 
 # Coords: x then y (multiplied by tilesize)
@@ -23,6 +23,6 @@ charmap=[[( 1, 6), ( 2, 6), ( 3, 6), ( 4, 6), ( 5, 6), ( 6, 6), ( 7, 6), ( 8, 6)
 for j in range(11):
     for i in range(10):
         x, y=charmap[j][i]
-        font_powder.paste(font_ascii.crop((x*tile_size, y*tile_size, (x+1)*tile_size, (y+1)*tile_size)), (i*tile_size, j*tile_size, (i+1)*tile_size, (j+1)*tile_size))
+        font_powder.paste(font_cp.crop((x*tile_size, y*tile_size, (x+1)*tile_size, (y+1)*tile_size)), (i*tile_size, j*tile_size, (i+1)*tile_size, (j+1)*tile_size))
 
 font_powder.save('{0}/{1}_powder.png'.format(Path(__file__).parent, font_name))

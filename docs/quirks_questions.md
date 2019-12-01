@@ -1,20 +1,18 @@
 # Quirks and Questions
 
-## The reason to post this on GitHub
-
-It'll never be done. Please do give [feedback](../../readme.md#feedback).
-
 ## The decision to work without branches
 
-I use no extra branches, because image layers are a form of source control anyway, and are easier to manage.
+I use no extra branches, because image layers are easier to manage, and are sort of a form of source control.
 
-## The reason the Heavy and Light fonts are swapped
+## The Heavy and Light fonts are swapped
 
 Jeff's font listing in-game is swapped on those two as of v118. Not even my fault.
 
 ## My in-game colours are ugly
 
-POWDER converts the palette into 5-bit RGB to be GBA compatible. That's why the palette on the social cards and such looks different from in-game.
+POWDER converts the palette into 5-bit RGB to be GBA compatible.
+
+That's why the palette on the social cards and such looks different from in-game.
 
 ## What are all symbols that don't follow the roguelike semiotics? (list unfinished)
 
