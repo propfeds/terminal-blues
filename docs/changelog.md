@@ -32,6 +32,8 @@ From this version onwards, binaries will be available, with only the tileset and
 - Hopefully this is the last time I'm changing the palette (barring variants):
   - Paler iron blue
   - Desaturated, and hue shifted ice teal towards a greener future
+  - Brighter wooden green
+  - Darker gold to look brassier
 - Dirt path from burgundy to earth green
 - Darker walls for Xom spaceship and room walls
 - Darker regular pits

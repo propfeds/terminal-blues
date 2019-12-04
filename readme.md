@@ -8,7 +8,7 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 - (??? Heresy) Spell icons completely in 14px pixel-art
 - Custom fonts: Head to Options > Fonts in-game to change the font.
   - Brass Blues: The Brass font with a new blue coat of paint.
-  - Classic: Replaced by the font from the MSX machines.
+  - Classic: Where has it gone?
   - Light ([listed in Options as Heavy](docs/quirks_questions.md#the-heavy-and-light-fonts-are-swapped)): Replaced by Blightbulb, a custom font.
 
 ## Instructions
@@ -19,8 +19,8 @@ Should you require the source, a WIP build and/or want extra content, clone the 
 
 Terminal Blues comes with a few variants:
 
-- blues: The regular Terminal Blues experience.
-- true_blues: Maybe a little bit different of an experience? Unlocks no full terminal power.
+- `blues`: The regular Terminal Blues experience.
+- `true_blues`: Protein. Deuterium. Tridude? Coming soon???
 
 On Windows, Mac and Linux versions:
 
