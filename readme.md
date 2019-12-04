@@ -56,7 +56,7 @@ Be noted, markdown (`.md`) documents can be opened in a text editor.
 
 [Exporting Instructions](docs/exporting.md)
 
-[Quirks and Questions](docs/quirks_questions.md)
+[Quirks](docs/quirks.md)
 
 [Tile List](docs/tilelist.md)
 

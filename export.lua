@@ -1,6 +1,6 @@
 function export(sprite, directory, equipment, extra_alphabets)
     local layer_folder_ref=sprite.layers[3]
-    local prev_state_bg=layer_folder_ref.isVisible
+    local prev_state_ref=layer_folder_ref.isVisible
     layer_folder_ref.isVisible=false
 
     local layer_equipment=sprite.layers[4].layers[3].layers[2]
@@ -66,40 +66,21 @@ function export(sprite, directory, equipment, extra_alphabets)
         slice='sprite16'
     }
 
-    local layer_extra_alphabets=sprite.layers[4].layers[5]
+    local layer_extra_alphabets=sprite.layers[4].layers[1].layers[6]
     local prev_state_alphabets=layer_extra_alphabets.isVisible
     if extra_alphabets then
         layer_extra_alphabets.isVisible=true
-        app.command.SaveFileCopyAs{
-            useUI='false',
-            filename=directory..'extra_alphabets/alphabet_minecraft.bmp',
-            slice='alphabet_extra_minecraft'
-        }
-        app.command.SaveFileCopyAs{
-            useUI='false',
-            filename=directory..'extra_alphabets/alphabet_msx.bmp',
-            slice='alphabet_extra_msx'
-        }
-        app.command.SaveFileCopyAs{
-            useUI='false',
-            filename=directory..'extra_alphabets/alphabet_textmachine_handwriting.bmp',
-            slice='alphabet_extra_polyducks'
-        }
-        app.command.SaveFileCopyAs{
-            useUI='false',
-            filename=directory..'extra_alphabets/alphabet_ibm_cga_thin.bmp',
-            slice='alphabet_extra_ibm_cga_thin'
-        }
-        app.command.SaveFileCopyAs{
-            useUI='false',
-            filename=directory..'extra_alphabets/alphabet_cheepicus.bmp',
-            slice='alphabet_extra_cheepicus'
-        }
+        for i, layer in ipairs(layer_extra_alphabets.layers) do
+            app.command.SaveFileCopyAs{
+                useUI='false',
+                filename=directory..'extra_alphabets/alphabet_'..layer.name..'.bmp',
+                slice='alphabet_extra_'..layer.name
+            }
+        end
     end
-    layer_extra_alphabets.isVisible=false
     layer_extra_alphabets.isVisible=prev_state_alphabets
 
-    layer_folder_ref.isVisible=prev_state_bg
+    layer_folder_ref.isVisible=prev_state_ref
 end
 
 local project_directory=app.activeSprite.filename:match("(.*[/\\])")
