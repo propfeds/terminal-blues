@@ -26,19 +26,12 @@ On Windows, Mac and Linux versions:
 
 - Create a folder in your POWDER directory named `gfx`.
 - Copy the bmps in your desired variant to `gfx`.
-- Some variants contain optional features. Obuild and/or want extra content, clone the master branch.
-
-Terminal Blues comes with a few variants:
-
-- blues: The regular Terminal Blues experience.
-- true_blues: Maybe a little bit different of an experience? Unlocks no full terminal power.
-
-On Windows, Mac and Linux versions:
-
-- Create a folder in your POWDER directory named `gfx`.
-- Copy the bmps in your desired variant to `gfx`.
-- Some variants contain optional features. Override in `gfx` to apply.
-  - equipment: Will display worn equipment on the @ tile.
+- Optional features: Override in `gfx` to apply.
+  - `equipment`: Will display worn equipment on the @ tile.
+  - `extra_alphabets`: Rename to one of the alphabets then override. I'm also afraid of copyright.
+    - `minecraft`: By JD Graphics.
+    - `msx`: From the MSX machines.
+    - `textmachine_handwriting`: By Polyducks.
 - Within POWDER, go to Options > Tiles > From Disk.
 
 On handheld versions: You'll need to compile the game with this tileset included.
