@@ -29,9 +29,11 @@ On Windows, Mac and Linux versions:
 - Optional features: Override in `gfx` to apply.
   - `equipment`: Will display worn equipment on the @ tile.
   - `extra_alphabets`: Rename to one of the alphabets then override. I'm also afraid of copyright.
-    - `minecraft`: By JD Graphics.
-    - `msx`: From the MSX machines.
-    - `textmachine_handwriting`: By Polyducks.
+    - `cheepicus`: by Cheepicus.
+    - `ibm_cga_thin`: essentially the thin version of the default Shadow font.
+    - `minecraft`: by JD Graphics.
+    - `msx`: from the MSX machines.
+    - `textmachine_handwriting`: by Polyducks.
 - Within POWDER, go to Options > Tiles > From Disk.
 
 On handheld versions: You'll need to compile the game with this tileset included.
