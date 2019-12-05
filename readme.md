@@ -9,13 +9,12 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 - Custom fonts: Head to Options > Fonts in-game to change the font.
   - Brass Blues: The Brass font with a new blue coat of paint.
   - Classic: Where has it gone?
-  - Light ([listed in Options as Heavy](docs/quirks_questions.md#the-heavy-and-light-fonts-are-swapped)): Replaced by Blightbulb, a custom font.
+  - Light ([or Heavy?](docs/quirks.md#my-heavy-and-light-fonts-are-swapped)):
+  Replaced by Blightbulb, a custom font.
 
 ## Instructions
 
-Head to the Releases section and download the latest version.
-
-Should you require the source, a WIP build and/or want extra content, clone the master branch.
+Download the [latest version](releases/latest/).
 
 Terminal Blues comes with a few variants:
 
@@ -28,7 +27,8 @@ On Windows, Mac and Linux versions:
 - Copy the bmps in your desired variant to `gfx`.
 - Optional features: Override in `gfx` to apply.
   - `equipment`: Will display worn equipment on the @ tile.
-  - `extra_alphabets`: Rename to one of the alphabets then override. I'm also afraid of copyright.
+  - `extra_alphabets`: Rename to one of the alphabets then override.
+  I'm also afraid of copyright.
     - `cheepicus`: by Cheepicus.
     - `ibm_cga_thin`: essentially the thin version of the default Shadow font.
     - `minecraft`: by JD Graphics.

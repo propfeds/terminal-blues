@@ -71,11 +71,13 @@ function export(sprite, directory, equipment, extra_alphabets)
     if extra_alphabets then
         layer_extra_alphabets.isVisible=true
         for i, layer in ipairs(layer_extra_alphabets.layers) do
-            app.command.SaveFileCopyAs{
-                useUI='false',
-                filename=directory..'extra_alphabets/alphabet_'..layer.name..'.bmp',
-                slice='alphabet_extra_'..layer.name
-            }
+            if layer.isVisible==true then
+                app.command.SaveFileCopyAs{
+                    useUI='false',
+                    filename=directory..'extra_alphabets/alphabet_'..layer.name..'.bmp',
+                    slice='alphabet_extra_'..layer.name
+                }
+            end
         end
     end
     layer_extra_alphabets.isVisible=prev_state_alphabets
