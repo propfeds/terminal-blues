@@ -19,7 +19,13 @@ Download the [latest version](https://github.com/PropFeds/terminal-blues/release
 Terminal Blues comes with a few variants:
 
 - `blues`: The regular Terminal Blues experience.
-- `true_blues`: Protein. Deuterium. Tridude? Coming soon???
+- `true_blues`: The three Guardians of the True Blue,
+who attempt to aid those with colour deficiencies.
+  - `protea`: The first guardian, now available for testing!
+  Intended to aid those with long cone deficiency (protanomaly/protanopia).
+  - `deuterium`: ??
+  - `tridude`: ???
+
 
 On Windows, Mac and Linux versions:
 

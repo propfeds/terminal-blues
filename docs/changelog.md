@@ -7,6 +7,9 @@ From this version onwards, binaries will be available, with only the tileset and
 ### New Features
 
 - Revamped *a lot of* spell icons
+- New variants!
+  - Protea: the First Guardian of the True Blues,
+  who attempts to aid those with red cone proficiency.
 - New fonts!
   - Classic: Replaced by the MSX font, and soon to be overthrown
   - Brass Blues: A new coat of paint for the Brass font
