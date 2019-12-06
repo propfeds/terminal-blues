@@ -85,8 +85,23 @@ function export(sprite, directory, equipment, extra_alphabets)
     layer_folder_ref.isVisible=prev_state_ref
 end
 
-local project_directory=app.activeSprite.filename:match("(.*[/\\])")
-export(app.activeSprite, project_directory..'export/blues/', true, true)
---[[
-export(app.activeSprite, 'D:/Games/Roguelikes/powder118_win/gfx/', false, false)
---]]
+local sprite=app.activeSprite
+local project_directory=sprite.filename:match("(.*[/\\])")
+app.transaction(
+    function()
+        local palette_cur=sprite.palettes[1]
+
+        sprite:loadPalette(project_directory..'palettes/blues.gpl')
+        export(sprite, project_directory..'export/blues/', true, true)
+        
+        sprite:loadPalette(project_directory..'palettes/prot.gpl')
+        export(sprite, project_directory..'export/protea/', true, true)
+        
+        sprite:loadPalette(project_directory..'palettes/blues.gpl')
+        --[[
+        export(sprite, 'D:/Games/Roguelikes/powder118_win/gfx/', false, false)
+        --]]
+        
+        sprite:setPalette(palette_cur)
+    end
+)

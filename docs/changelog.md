@@ -11,7 +11,8 @@ From this version onwards, binaries will be available, with only the tileset and
   - Protea: the First Guardian of the True Blues,
   who attempts to aid those with red cone proficiency.
 - New fonts!
-  - Classic: Replaced by the MSX font, and soon to be overthrown
+  - Classic: Replaced by the Textmachine Handwriting font by Polyducks,
+  and soon to be overthrown
   - Brass Blues: A new coat of paint for the Brass font
   - Blightbulb: A feeble attempt at making a font to replace the Light font
   - Leafletter (Not In Progress): Another feeble attempt at making a font ???
