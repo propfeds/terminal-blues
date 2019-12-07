@@ -97,8 +97,6 @@ NAKEDSTON
 
 ## Alphabets
 
-### Layout
-
 ```md
 abcdefghij
 klmnopqrst
@@ -111,19 +109,19 @@ UVWXYZ←→↑↓
 =-\',./+_|
 "<>?[]{}`~
 ,.<>;:Θ¿■
-and then the inventory artifact icon
+and then the inventory artifact hash
 ```
 
-### Special Symbols
+**Special Symbols:**
 
-- ♥     Heart
-- ♦     Magic
-- ⏎     Return
-- Đ     Dungeon Level
-- ←→↑↓  Arrows
-- Θ     Shield
-- ¿     Random Name
-- ■     Text Cursor
+- `♥`: Heart
+- `♦`: Magic
+- `⏎`: Return
+- `Đ`: Dungeon Depth
+- `←→↑↓`: Arrows
+- `Θ`: Shield
+- `¿`: Random Name
+- `■`: Text Cursor
 
 ## sprite16
 

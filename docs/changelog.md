@@ -8,9 +8,11 @@ From this version onwards, binaries will be available, with only the tileset and
 
 - Revamped *a lot of* spell icons
 - New variants!
+
   - Protea: the First Guardian of the True Blues,
   who attempts to aid those with red cone proficiency.
 - New fonts!
+
   - Classic: Replaced by the Textmachine Handwriting font by Polyducks,
   and soon to be overthrown
   - Brass Blues: A new coat of paint for the Brass font
@@ -35,6 +37,7 @@ From this version onwards, binaries will be available, with only the tileset and
 
 - As an experiment, the ugly shade of pink flesh is no longer used in `dungeon16.bmp`, and now replaced by Simpsonian skin
 - Hopefully this is the last time I'm changing the palette (barring variants):
+
   - Paler iron blue
   - Desaturated, and hue shifted ice teal towards a greener future
   - Brighter wooden green
@@ -53,7 +56,8 @@ From this version onwards, binaries will be available, with only the tileset and
 - Kite shield from violet to red
 - Purple tridude from violet to purple
 - Darker blessed and cursed inventory slots
-- Increased contrast between Orcs and Hill Orcs, as well as Kobolds and Stronger Kobolds
+- Increased contrast between Orcs and Hill Orcs,
+as well as Kobolds and Stronger Kobolds
 
 ### Glyphs
 

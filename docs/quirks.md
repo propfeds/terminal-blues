@@ -26,7 +26,7 @@ That's why the palette on the social cards and such looks different from in-game
 - `o`   Slugs (*not* Oozes)
 - `ö`   Orcs
 
-## Turtles being `q`s and `Q`s is unusual
+## Turtles being qs and Qs is unusual
 
 `quy` is how the letter `q` is pronounced in Vietnamese.
 
