@@ -6,21 +6,20 @@ From this version onwards, binaries will be available, with only the tileset and
 
 ### New Features
 
-- Revamped *a lot of* spell icons
-- New variants!
+- **Revamped *a lot of* spell icons**
+- **New variants!**
 
-  - Protea: the First Guardian of the True Blues,
+  - **Protea:** the First Guardian of the True Blues,
   who attempts to aid those with red cone proficiency.
-- New fonts!
+- **New fonts!** Current font listing:
 
-  - Classic: Replaced by the Textmachine Handwriting font by Polyducks,
-  and soon to be overthrown
-  - Brass Blues: A new coat of paint for the Brass font
-  - Blightbulb: A feeble attempt at making a font to replace the Light font
-  - Leafletter (Not In Progress): Another feeble attempt at making a font ???
-  - **(!)** Note that the Heavy and Light fonts are swapped in-game
-- All entities now have outlines in order to not be swallowed up by background traps
-- Better support for exporting
+  - **Brass:** Brass Blues, just the Brass font with a blue coat of paint
+  - **Classic**: The IBM CGA font, thick variant
+  - **Heavy**: Polyducks' Textmachine Handwriting (soon to be overthrown)
+  - **Light**: Blightbulb, custom font (soon to be overthrown)
+  - **Shadow:** The regular game's Heavy font, for maximum readability
+- All entities now have **outlines** in order to not be swallowed up by background traps
+- Better support for **exporting**
 
 ### Fixes
 
@@ -45,13 +44,11 @@ From this version onwards, binaries will be available, with only the tileset and
 - Dirt path from burgundy to earth green
 - Darker walls for Xom spaceship and room walls
 - Darker regular pits
-- Animated tree from poison green to regular green
+- Animated tree from poison green to green
 - Shitomi is now truly lavender
-- Y rune from iron blue to purple
-- Xom portal from some blue to violet
-- Belweir door from purple to violet
+- Xom portal, Belweir door to violet
 - Regular slug from blue to gold
-- Chameleon from blue to purple
+- Chameleon, Y rune from blue to purple
 - Frog from blue to green
 - Kite shield from violet to red
 - Purple tridude from violet to purple
