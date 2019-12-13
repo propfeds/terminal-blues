@@ -35,7 +35,7 @@ From this version onwards, binaries will be available, with only the tileset and
 
 ### Colours
 
-- As an experiment, the ugly shade of pink flesh is no longer used in `dungeon16.bmp`, and now replaced by Simpsonian skin
+- As an experiment, the ugly shade of pink flesh is no longer used in `dungeon16.bmp`, and now replaced by the yellow male skin
 - Hopefully this is the last time I'm changing the palette (barring variants):
 
   - Paler iron blue
