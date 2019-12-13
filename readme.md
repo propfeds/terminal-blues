@@ -63,7 +63,7 @@ Be noted, markdown (`.md`) documents can be opened in a text editor.
 
 [Full Changelog](docs/changelog.md)
 
-[Exporting Instructions](docs/exporting.md)
+[How Do I Contribute?](docs/contributing.md)
 
 [Quirks](docs/quirks.md)
 

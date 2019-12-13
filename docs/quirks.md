@@ -9,10 +9,10 @@ I use no extra branches, because image layers are easier to manage, and are sort
 As of v118, Jeff's font listing in-game is swapped on those two when using a loaded tileset.
 'Official' tilesets (ones that are included on compile) have the correct listing.
 
-## My in-game colours are ugly
+## My colours are ugly
 
 POWDER converts the palette into 5-bit RGB to be GBA compatible.
-That's why the palette on the social cards and such looks different from in-game.
+With the advent of the blues palette 1.1b5, the colour palette is now converted to 5-bit, which means `social_card == in_game == ugly`.
 
 ## Symbols that don't follow the roguelike semiotics (list unfinished)
 

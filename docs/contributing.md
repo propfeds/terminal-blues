@@ -1,4 +1,4 @@
-# Exporting
+# Contributing
 
 ## Requirements
 
@@ -47,10 +47,16 @@ The export should appear within the `export` folder of the repository.
 
 ## The fonts
 
-The [CP437 to POWDER script](../fonts/cp437_to_powder.py) converts an CP437/ANSI bitmap to the POWDER format. Only works with square fonts since POWDER use them.
+The [CP437 to POWDER script](../fonts/cp437_to_powder.py) converts an CP437/ANSI bitmap to the POWDER format.
+Only works with square fonts since POWDER uses them.
 
 1. Cook up a new font!
 2. Export to `<something>.png`.
 3. Run the `cp437_to_powder` script and input your `<something>`.
 A `<something>_powder.png` will appear before your eyes.
 4. Stick it onto `master.aseprite`, then do all sorts of *post-processing* on it like how it should be done in other alphabets.
+
+## Palettes
+
+The [eight divider script](../palettes/eight_divider.py) will convert your palettes to 5-bit. Only supports `.hex` palettes.
+Just run it and input the palette name, and it'll spit out an uglier one!

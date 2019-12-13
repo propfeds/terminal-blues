@@ -4,7 +4,7 @@
 
 From this version onwards, binaries will be available, with only the tileset and no source.
 
-### New Features
+### Main Features
 
 - **Revamped *a lot of* spell icons**
 - **New variants!**
@@ -18,8 +18,9 @@ From this version onwards, binaries will be available, with only the tileset and
   - **Heavy**: Polyducks' Textmachine Handwriting (soon to be overthrown)
   - **Light**: Blightbulb, custom font (soon to be overthrown)
   - **Shadow:** The regular game's Heavy font, for maximum readability
+- Better support for **contributing**
+- Changed the spell and action icons to be consistent with inventory
 - All entities now have **outlines** in order to not be swallowed up by background traps
-- Better support for **exporting**
 
 ### Fixes
 
@@ -41,6 +42,10 @@ From this version onwards, binaries will be available, with only the tileset and
   - Desaturated, and hue shifted ice teal towards a greener future
   - Brighter wooden green
   - Darker gold to look brassier
+  - Desaturated violet
+  - (1.1b4) Desaturated deep blues
+- (1.1b5) Then finally, the palette has been converted to 5-bit,
+so that it'll be recreated faithfully in game (it's ugly, accept it)
 - Dirt path from burgundy to earth green
 - Darker walls for Xom spaceship and room walls
 - Darker regular pits
