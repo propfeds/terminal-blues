@@ -40,10 +40,11 @@ From this version onwards, binaries will be available, with only the tileset and
 
   - Paler iron blue
   - Desaturated, and hue shifted ice teal towards a greener future
-  - Brighter wooden green
+  - Brighter wood green
   - Darker gold to look brassier
   - Desaturated violet
   - (1.1b4) Desaturated deep blues
+  - (1.1b6) Slightly desaturated iron blue, darkened wood green and poison green
 - (1.1b5) Then finally, the palette has been converted to 5-bit,
 so that it'll be recreated faithfully in game (it's ugly, accept it)
 - Dirt path from burgundy to earth green

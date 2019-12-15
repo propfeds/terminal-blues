@@ -81,7 +81,7 @@ function export(sprite, directory, equipment, extra_alphabets)
         end
     end
     layer_extra_alphabets.isVisible=prev_state_alphabets
-
+    layer_equipment.isVisible=prev_state_equipment
     layer_folder_ref.isVisible=prev_state_ref
 end
 

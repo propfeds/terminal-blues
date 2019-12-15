@@ -14,9 +14,11 @@ Should you feel the need to edit the tileset to your liking, the holy source is 
 
 ## Terminal Blues
 
-The Terminal Blues [export script](../export.lua) does not require an installation of Lua.
+The Terminal Blues [export script](../scripts/export.lua) does not require an installation of Lua.
 
-1. Edit `master.aseprite` at your own will.
+1. Move `export.lua` to Aseprite's script folder
+(`%appdata%/Aseprite/scripts/` for Windows).
+2. Edit `master.aseprite` at your own will.
 
   - Note that inside the sprite there are layers with prefixing numbers.
   They are the layers' order within their folders (counting from 1).
@@ -39,15 +41,13 @@ The Terminal Blues [export script](../export.lua) does not require an installati
     and the capital D (depth) (right of return symbol) *room blue* (index 14)
     - And if you ever want to not export an extra alphabet, just hide the layer
     (reminder, they're inside layer `[4][1][6]`).
-2. Move `export.lua` to Aseprite's script folder
-(`%appdata%/Aseprite/scripts/` for Windows).
 3. Open `master.aseprite`, and make sure it is the active window in the program.
 4. Go to Files > Scripts > `export`.
 The export should appear within the `export` folder of the repository.
 
 ## The fonts
 
-The [CP437 to POWDER script](../fonts/cp437_to_powder.py) converts an CP437/ANSI bitmap to the POWDER format.
+The [CP437 to POWDER script](../scripts/cp437_to_powder.py) converts an CP437/ANSI bitmap to the POWDER format.
 Only works with square fonts since POWDER uses them.
 
 1. Cook up a new font!
@@ -58,5 +58,5 @@ A `<something>_powder.png` will appear before your eyes.
 
 ## Palettes
 
-The [eight divider script](../palettes/eight_divider.py) will convert your palettes to 5-bit. Only supports `.hex` palettes.
+The [eight divider script](../scripts/eight_divider.py) will convert your palettes to 5-bit. Only supports `.hex` palettes.
 Just run it and input the palette name, and it'll spit out an uglier one!
