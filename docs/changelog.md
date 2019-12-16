@@ -2,8 +2,6 @@
 
 ## 1.1: Spelling Reform
 
-From this version onwards, binaries will be available, with only the tileset and no source.
-
 ### Main Features
 
 - **Revamped *a lot of* spell icons**
