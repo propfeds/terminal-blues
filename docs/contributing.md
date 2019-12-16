@@ -5,11 +5,9 @@
 Should you feel the need to edit the tileset to your liking, the holy source is there for you. All you need is:
 
 - A copy of Aseprite:
-
   - Buy from [Steam](https://store.steampowered.com/app/431730/Aseprite), or
   - Compile from the [repo](https://github.com/aseprite/aseprite).
 - An installation of [Python](https://www.python.org) (for the font).
-
   - With the [Pillow](https://pypi.org/project/Pillow) package.
 
 ## Terminal Blues
@@ -26,7 +24,6 @@ The Terminal Blues [export script](../scripts/export.lua) does not require an in
   so make sure the orders in the sprite and the script match.
   - **Creating new fonts:** first do the little dings [below](#the-fonts),
   then here are those little *post-processing* things:
-
     - Advised to align odd-width characters to the right, to make way for:
     - Shadows: dropped south-west, against industry standards of south-east.
     They're also coloured with max green (index 2),

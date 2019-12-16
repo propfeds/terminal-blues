@@ -1,85 +1,90 @@
 # Changelog
 
-## 1.1: Spelling Reform (WIP)
+## 1.1: Spelling Reform
 
 From this version onwards, binaries will be available, with only the tileset and no source.
 
 ### Main Features
 
 - **Revamped *a lot of* spell icons**
+- **New fonts!** Current font listing:
+  - **Brass:** Brass Blues, just the Brass font with a blue coat of paint
+  - **Classic:** The IBM CGA font, thick variant
+  - **Heavy:** (Placeholder) Polyducks' Textmachine Handwriting
+  - **Light:** Blightbulb, custom font
+  - **Shadow:** The regular game's Heavy font, for maximum readability
 - **New variants!**
-
   - **Protea:** the First Guardian of the True Blues,
   who attempts to aid those with red cone proficiency.
-- **New fonts!** Current font listing:
-
-  - **Brass:** Brass Blues, just the Brass font with a blue coat of paint
-  - **Classic**: The IBM CGA font, thick variant
-  - **Heavy**: Polyducks' Textmachine Handwriting (soon to be overthrown)
-  - **Light**: Blightbulb, custom font (soon to be overthrown)
-  - **Shadow:** The regular game's Heavy font, for maximum readability
 - Better support for **contributing**
-- Changed the spell and action icons to be consistent with inventory
 - All entities now have **outlines** in order to not be swallowed up by background traps
 
 ### Fixes
 
-- Adjusted most of the equipment (variant) glyphs on the @
-- Reformatted the changelog
-- Fixed burning tree tiles not having background
-- Realigned hashes in some alphabets
-- Fixed inconsistent shadow width in Light font
+- Hopefully a better looking changelog
+- Burning tree tiles not having background
+- Realigned and added shadows to hashes in some alphabets
 - Orc and Hill Orc having swapped colours
-- UI buttons now square to be consistent with inventory
-- Changed Tile and Text selection icons to be consistent with the theme
 
 ### Colours
 
-- As an experiment, the ugly shade of pink flesh is no longer used in `dungeon16.bmp`, and now replaced by the yellow male skin
-- Hopefully this is the last time I'm changing the palette (barring variants):
-
-  - Paler iron blue
-  - Desaturated, and hue shifted ice teal towards a greener future
-  - Brighter wood green
-  - Darker gold to look brassier
-  - Desaturated violet
-  - (1.1b4) Desaturated deep blues
-  - (1.1b6) Slightly desaturated iron blue, darkened wood green and poison green
-- (1.1b5) Then finally, the palette has been converted to 5-bit,
-so that it'll be recreated faithfully in game (it's ugly, accept it)
-- Dirt path from burgundy to earth green
-- Darker walls for Xom spaceship and room walls
-- Darker regular pits
-- Animated tree from poison green to green
-- Shitomi is now truly lavender
+- **Blues:** Heavily tweaked:
+  - **(since v1.1b5)** Converted the palette to 5-bit (why see wig!)
+  - **(2)** Pure Green: Reduced alpha (no longer burns eyes)
+  - **(3-6)** Red Shades: Reduced value
+  - **(7-8)** Yellows: Reduced value (Gold looks brassier)
+  - **(9)** Wood Green: Slightly brighter
+  - **(10-11)** Greens: Reduced value
+  - **(12)** Teal: Reduced saturation and value, and shifted hue towards green
+  - **(13)** Iron Blue: Reduced saturation and value
+  - **(16)** Deep Blue: Reduced saturation
+  - **(20)** Violet: Reduced saturation, increased value, shifted hue to blue
+- **Protea (Protanomaly/Protanopia):** Spawned:
+  - Based on an earlier version of Blues with brighter colours
+  - **(9-11)** All greens have been shifted to purple
+  - Small tweaks to other colours
+- As an experiment, (6) pink flesh is no longer used in `dungeon16.bmp`,
+now replaced by the (7) yellow male skin
+  - Shitomi: from (6) to (20) violet
+- Minimising use of (3) burgundy:
+  - Dirt path from (3) to (9) wood green
+  - On the contrary, torch body from (5) orange to burgundy
+- Minimising use of (14) brick blue:
+  - Increased contrast between (13) Orcs and (14->15) Hill Orcs
+  - Increased contrast between (13) Kobolds and (14->15) some Stronger Kobolds
+  - Darkened room walls from (14) to (15) stone blue
+  - On the contrary, darker walls for Xom spaceship (13->14)
+  - Darker regular pits from (14) to (15)
+- Acid consistency
+  - Regular slug from (13) iron blue to (8) gold
+  - Acid Hand on @ now is fully gold
+- Animated tree from (11) poison green to (10) green
 - Xom portal, Belweir door to violet
-- Regular slug from blue to gold
 - Chameleon, Y rune from blue to purple
 - Frog from blue to green
 - Kite shield from violet to red
 - Purple tridude from violet to purple
 - Darker blessed and cursed inventory slots
-- Increased contrast between Orcs and Hill Orcs,
-as well as Kobolds and Stronger Kobolds
 
 ### Glyphs
 
+- Adjusted most of the equipments on the @
+- Tile and Text cursors to corner triangles to be consistent with other cursors
+- Spell and action icons to be flatter and be consistent with the inventory grid
 - UI action buttons now use 12px font instead of 16px
-- UI mana icon from a triangle to a diamond or potion depending on alphabet
+- UI mana icon from a triangle to a diamond star or potion depending on alphabet
 - UI Wish/Favourite icons (they reuse the same sprite) from `&` to a star
-- UI shield icons (theta) on terminal fonts lost an arm (ouch)
+- UI shield icons (theta) on terminal fonts lost an arm
 - UI inventory hashes (artifacts) now have a shadow
-- Buckler Theta glyph losing arms
-- Kite shield glyph losing ears
-- Tower shield glyph to capital Theta
+- Buckler Theta losing arms
+- Kite shield losing ears
+- Tower shield to capital Theta **(custom glyph)**
 - Realigned and resized some shields on @
-- Acid Hand on @ now is fully gold
-- Torch body from orange to brown
-- Spiked pits are now spikeless, but brighter pits than regular ones
-- Xom portal glyph to capital Omega
-- Tree glyph from club to spade
-- Insivible slug (stalker) glyph now o without umlauts
-- Orc glyph from O with weird strike to O with umlauts
+- Spiked pits are now spikeless (no more textures)
+- Xom portal to capital Omega
+- Tree from club to spade
+- Insivible slug (stalker) now o without umlauts
+- Orc from O with weird strike to O with umlauts
 
 ### 1.0.1: Polymorph
 
