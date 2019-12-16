@@ -13,7 +13,7 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 
 Latest release: [1.0.1](https://github.com/PropFeds/terminal-blues/releases/latest)
 
-Latest alpha/beta: [1.1.0-alpha.1](https://github.com/PropFeds/terminal-blues/releases/tag/1.1.0-alpha.1)
+Latest alpha/beta: [1.1.0-alpha.2](https://github.com/PropFeds/terminal-blues/releases/tag/1.1.0-alpha.2)
 
 Terminal Blues comes with a few variants:
 
