@@ -6,7 +6,7 @@
 
 - **Revamped *a lot of* spell icons**
 - **New fonts!** Current font listing:
-  - **Brass:** Brass Blues, just the Brass font with a blue coat of paint
+  - **Brass:** Brass Gold, no Blues
   - **Classic:** The IBM CGA font, thick variant
   - **Heavy:** (Placeholder) Polyducks' Textmachine Handwriting
   - **Light:** Blightbulb, custom font
@@ -41,31 +41,34 @@
   - Based on an earlier version of Blues with brighter colours
   - **(9-11)** All greens have been shifted to purple
   - Small tweaks to other colours
-- As an experiment, (6) pink flesh is no longer used in `dungeon16.bmp`,
+- **Colour scheme changes:**
+  - Confirmation/blessed items from green to blue
+  - As an experiment, (6) pink flesh is no longer used in `dungeon16.bmp`,
 now replaced by the (7) yellow male skin
-  - Shitomi: from (6) to (20) violet
-- Minimising use of (3) burgundy:
-  - Dirt path from (3) to (9) wood green
-  - On the contrary, torch body from (5) orange to burgundy
-- Minimising use of (14) brick blue:
-  - Increased contrast between (13) Orcs and (14->15) Hill Orcs
-  - Increased contrast between (13) Kobolds and (14->15) some Stronger Kobolds
-  - Darkened room walls from (14) to (15) stone blue
-  - On the contrary, darker walls for Xom spaceship (13->14)
-  - Darker regular pits from (14) to (15)
-- Acid consistency
-  - Regular slug from (13) iron blue to (8) gold
-  - Acid Hand on @ now is fully gold
+    - Shitomi: from (6) to (20) violet
+  - Minimising use of (3) burgundy:
+    - Dirt path from (3) to (9) wood green
+    - On the contrary, torch body from (5) orange to burgundy
+  - Minimising use of (14) brick blue:
+    - Increased contrast between (13) Orcs and (14->15) Hill Orcs
+    - Increased contrast between (13) Kobolds and (14->15) some Stronger Kobolds
+    - Darkened room walls from (14) to (15) stone blue
+    - On the contrary, darker walls for Xom spaceship (13->14)
+    - Darker regular pits from (14) to (15)
+  - Acid consistency
+    - Regular slug from (13) iron blue to (8) gold
+    - Acid Hand on @ now is fully gold
 - Animated tree from (11) poison green to (10) green
 - Xom portal, Belweir door to violet
 - Chameleon, Y rune from blue to purple
 - Frog from blue to green
 - Kite shield from violet to red
 - Purple tridude from violet to purple
-- Darker blessed and cursed inventory slots
+- Darker cursed inventory items
 
 ### Glyphs
 
+- Pushed everything down by one pixel for better alignment
 - Adjusted most of the equipments on the @
 - Tile and Text cursors to corner triangles to be consistent with other cursors
 - Spell and action icons to be flatter and be consistent with the inventory grid
