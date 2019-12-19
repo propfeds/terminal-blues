@@ -55,5 +55,14 @@ A `<something>_powder.png` will appear before your eyes.
 
 ## Palettes
 
-The [eight divider script](../scripts/eight_divider.py) will convert your palettes to 5-bit. Only supports `.hex` palettes.
+The [eight divider script](../scripts/eight_divider.lua) converts your palette into 5-bit, and works inside Aseprite.
+
+1. Move `export.lua` to Aseprite's script folder
+(`%appdata%/Aseprite/scripts/` for Windows).
+2. Open any `.aseprite` file with a palette.
+Make sure it is the active window in the program.
+3. Go to Files > Scripts > `eight_divider`.
+The palette should be converted to 5-bit.
+
+The [deprecated eight divider script](../scripts/old/eight_divider.py) will convert your palettes to 5-bit. Only supports `.hex` palettes.
 Just run it and input the palette name, and it'll spit out an uglier one!

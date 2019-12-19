@@ -100,12 +100,11 @@ app.transaction(
         
         sprite:loadPalette(project_directory..'palettes/prot.gpl')
         export(sprite, project_directory..'export/protea/', true, true)
-        
-        sprite:loadPalette(project_directory..'palettes/blues.gpl')
+
+        sprite:setPalette(palette_cur)
         ---[[
         export(sprite, 'D:/Games/Roguelikes/powder118_win/gfx/', false, false)
         --]]
         
-        sprite:setPalette(palette_cur)
     end
 )

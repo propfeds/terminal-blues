@@ -1,5 +1,6 @@
 export/readme.txt
 export/bin/
 fonts/*_powder.png
+palettes/current.gpl
 ref/
 master_*.aseprite

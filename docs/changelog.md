@@ -59,8 +59,8 @@ now replaced by the (7) yellow male skin
     - Regular slug from (13) iron blue to (8) gold
     - Acid Hand on @ now is fully gold
 - Animated tree from (11) poison green to (10) green
-- Xom portal, Belweir door to violet
-- Chameleon, Y rune from blue to purple
+- Xom portal, Belweir door, chameleon, teletrap and Y rune to purple
+to reflect their magical nature
 - Frog from blue to green
 - Kite shield from violet to red
 - Purple tridude from violet to purple
@@ -69,6 +69,7 @@ now replaced by the (7) yellow male skin
 ### Glyphs
 
 - Pushed everything down by one pixel for better alignment
+- Shifted water tildes down
 - Adjusted most of the equipments on the @
 - Tile and Text cursors to corner triangles to be consistent with other cursors
 - Spell and action icons to be flatter and be consistent with the inventory grid
