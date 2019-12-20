@@ -7,9 +7,9 @@ so that they can find their True Blues.
 
 ## Protea
 
-Protanopia/Protanomaly
+The First Guardian of the True Blue (Protanopia/Protanomaly), the Bright
 
-The First Guardian of the True Blue, the Bright
+Latest version: [0.06](../../palettes/protea/prot_0.06.gpl)
 
 Protea is both the botanical name and the English common name of a genus of South African flowering plants, sometimes also called sugarbushes or fynbos.
 In local tradition, the protea flower represents change and hope.

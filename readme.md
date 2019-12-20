@@ -6,7 +6,7 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 
 - Terrain, monsters and items in Code Page 437/Extended ASCII/ANSI[^1]
 - (??? Heresy) Spell icons completely in 14px pixel-art
-- Custom fonts: `blightbulb` and `eclipse` to replace the [Light and Heavy](docs/quirks.md#my-heavy-and-light-fonts-are-swapped) fonts!
+- Custom fonts: [Blightbulb](docs/lore/blightbulb.md) and [Eclipse](docs/lore/eclipse.md) to replace the [Light and Heavy](docs/quirks.md#my-heavy-and-light-fonts-are-swapped) fonts!
 - Questionable colourblind support
 
 ## Instructions
