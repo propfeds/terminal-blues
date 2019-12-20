@@ -6,14 +6,14 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 
 - Terrain, monsters and items in Code Page 437/Extended ASCII/ANSI[^1]
 - (??? Heresy) Spell icons completely in 14px pixel-art
-- Custom fonts!
+- Custom fonts: `blightbulb` and `eclipse` to replace the [Light and Heavy](docs/quirks.md#my-heavy-and-light-fonts-are-swapped) fonts!
 - Questionable colourblind support
 
 ## Instructions
 
 Latest release: [1.0.1](https://github.com/PropFeds/terminal-blues/releases/latest)
 
-Latest alpha/beta: [1.1.0-alpha.2](https://github.com/PropFeds/terminal-blues/releases/tag/1.1.0-alpha.2)
+Latest alpha/beta: [1.1.0-alpha.3](https://github.com/PropFeds/terminal-blues/releases/tag/1.1.0-alpha.3)
 
 Terminal Blues comes with a few variants:
 

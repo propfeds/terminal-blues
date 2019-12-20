@@ -8,7 +8,7 @@
 - **New fonts!** Current font listing:
   - **Brass:** Brass Gold, no Blues
   - **Classic:** The IBM CGA font, thick variant
-  - **Heavy:** (Placeholder) Polyducks' Textmachine Handwriting
+  - **Heavy:** Eclipse, custom font
   - **Light:** Blightbulb, custom font
   - **Shadow:** The regular game's Heavy font, for maximum readability
 - **New variants!**

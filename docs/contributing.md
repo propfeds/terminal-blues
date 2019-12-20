@@ -29,10 +29,10 @@ The Terminal Blues [export script](../scripts/lua_ase/export.lua) does not requi
     They're also coloured with max green (index 2),
     but I've decreased its alpha so it won't burn your eyes.
     - Draw a **heart**, a **mana-resembling symbol**, a **return** symbol,
-    cardinal **arrows**, an **upside-down question mark**, a **theta**,
+    cardinal **arrows**, a **white smiley face**, a **theta**,
     and a **cursor block** for your font too.
     - Colour your heart *red* (index 4), your mana star *purple* (index 21),
-    your theta *iron blue* (index 13), the upside-down question mark whatever
+    your theta *iron blue* (index 13), the white smiley face whatever
     (I chose *green* (index 10) because originally it was a tridude,
     and will replace the depth symbol in Xom's spaceship),
     and the capital D (depth) (right of return symbol) *room blue* (index 14)

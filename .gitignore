@@ -1,6 +1,17 @@
+# Binaries
 export/readme.txt
 export/bin/
-fonts/*_powder.png
+
+# Terminal Blues export palette
 palettes/current.gpl
+
+# Reference
 ref/
+
+# Scripts
+fonts/*/*_powder.png
+scripts/py/*.hex
+scripts/py/*.png
+
+# Testing variants
 master_*.aseprite
