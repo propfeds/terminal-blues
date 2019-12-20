@@ -1,6 +1,6 @@
 # Blightbulb: Post-Mortem
 
-Latest version: [0.03](../../fonts/blightbulb/blightbulb_gs_ro_0.03.png)
+Latest version: [1.03](../../fonts/blightbulb/blightbulb_gs_ro_1.03.png)
 
 The original two inspirations for this were the Doves Type and Gabriola, neither of which really fit the vision (if there was one at all).
 
