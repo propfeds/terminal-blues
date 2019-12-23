@@ -47,15 +47,19 @@ On handheld versions: You'll need to compile the game with this tileset included
 1.1: Spelling Reform is under construction. Screenshots may not be final!
 
 ![screenshot-0](extras/presskit/screenshot-0.png "Under Siege")
+
 *Under Siege (Blightbulb font)*
 
 ![screenshot-1](extras/presskit/screenshot-1.png "The Big B")
+
 *The Big B*
 
 ![screenshot-2](extras/presskit/screenshot-2.png "Space Odyssey")
+
 *Space Odyssey*
 
 ![screenshot-3](extras/presskit/screenshot-3.png "rEkT?")
+
 *rEkT? (Eclipse font)*
 
 ## Documentation
