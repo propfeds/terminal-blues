@@ -1,6 +1,6 @@
 from pathlib import Path
 
-name=input('Palette name? ')
+name=input('Palette name (exclude .hex extension): ')
 with open('{0}/{1}.hex'.format(Path(__file__).parent, name), 'r') as pal:
     pal_lines: list=pal.read().splitlines()
     pal_new: list=[]

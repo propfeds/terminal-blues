@@ -1,7 +1,7 @@
 from pathlib import Path
 from PIL import Image
 
-font_name=input()
+font_name=input('Font name (exclude .png extension): ')
 font_cp=Image.open('{0}/{1}.png'.format(Path(__file__).parent, font_name))
 
 tile_size=font_cp.width//16
