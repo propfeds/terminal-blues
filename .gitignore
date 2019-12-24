@@ -3,9 +3,6 @@ export/bin/
 export/readme.txt
 export/terminal-blues-*.zip
 
-# Terminal Blues export palette
-palettes/current.gpl
-
 # Reference
 ref/
 

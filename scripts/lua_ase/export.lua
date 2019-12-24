@@ -93,18 +93,14 @@ local sprite=app.activeSprite
 local project_directory=sprite.filename:match("(.*[/\\])")
 app.transaction(
     function()
-        local palette_cur=sprite.palettes[1]
+        --[[ Insert powder directory (for testing) then insert a hyphen at line's beginning (make it three hyphens) to disable this comment
+        export(sprite, 'D:/Games/Roguelikes/powder118_win/gfx/', false, false)
+        --]]
 
         sprite:loadPalette(project_directory..'palettes/blues.gpl')
         export(sprite, project_directory..'export/blues/', true, true)
         
         sprite:loadPalette(project_directory..'palettes/prot.gpl')
         export(sprite, project_directory..'export/protea/', true, true)
-
-        sprite:setPalette(palette_cur)
-        ---[[
-        export(sprite, 'D:/Games/Roguelikes/powder118_win/gfx/', false, false)
-        --]]
-        
     end
 )

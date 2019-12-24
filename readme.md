@@ -58,9 +58,9 @@ On handheld versions: You'll need to compile the game with this tileset included
 
 *Space Odyssey*
 
-![screenshot-3](extras/presskit/screenshot-3.png "rEkT?")
+![screenshot-3](extras/presskit/screenshot-3.png "rEkkkT?")
 
-*rEkT? (Eclipse font)*
+*rEkkkT? (Eclipse font)*
 
 ## Documentation
 

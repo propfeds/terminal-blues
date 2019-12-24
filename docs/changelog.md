@@ -68,7 +68,6 @@ to reflect their magical nature
 
 ### Glyphs
 
-- Pushed everything down by one pixel for better alignment
 - Shifted water tildes down
 - Adjusted most of the equipments on the @
 - Tile and Text cursors to corner triangles to be consistent with other cursors
