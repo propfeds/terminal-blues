@@ -15,7 +15,7 @@ Latest release: [1.0.1](https://github.com/PropFeds/terminal-blues/releases/late
 
 Latest alpha/beta: [1.1.0-alpha.3](https://github.com/PropFeds/terminal-blues/releases/tag/1.1.0-alpha.3)
 
-Terminal Blues comes with a few variants:
+Terminal Blues comes with a few **variants:**
 
 - `blues`: The regular Terminal Blues experience.
 - `true_blues`: The three Guardians of the True Blue,
@@ -24,23 +24,18 @@ who attempt to aid those with colour deficiencies.
   - `deuterium`: ??
   - `tridude`: ???
 
-On Windows, Mac and Linux versions:
+**Windows, Linux, Mac:**
 
 - Create a folder in your POWDER directory named `gfx`.
 - Copy the bmps in your desired variant to `gfx`.
 - Optional features: Override in `gfx` to apply.
   - `equipment`: Will display worn equipment on the @ tile.
   - `extra_alphabets`: Rename to one of the alphabets and override.
-  All external fonts, copyrighted by their respective owners.
-    - `cheepicus`: by Cheepicus.
-    - `ibm_cga_thin`: thin variant of the IBM CGA font.
-    - `minecraft`: by JD Graphics.
-    - `msx`: from the MSX machines.
-    - `textmachine_handwriting`: by Polyducks.
+  All the fonts are copyrighted by their respective owners.
 - Within POWDER, go to Options > Tiles > From Disk.
-- Head to Options > Fonts in-game to change the font.
+- To change the font, head to Options > Fonts.
 
-On handheld versions: You'll need to compile the game with this tileset included.
+**Handheld versions:** You'll need to compile the game with this tileset included.
 
 ## Screenshots
 
@@ -68,7 +63,7 @@ Be noted, markdown (`.md`) documents can be opened in a text editor.
 
 [Full Changelog](docs/changelog.md)
 
-[How Do I Contribute?](docs/contributing.md)
+[Contributing](docs/contributing.md)
 
 [Quirks](docs/quirks.md)
 
@@ -79,8 +74,8 @@ Be noted, markdown (`.md`) documents can be opened in a text editor.
 Whether for feedback or for a simple Internet hug, these are the ways:
 
 - Post an issue on GitHub
-- The [roguelikes Discord](https://discord.gg/tJt4kMM), at `#powder`
-- My [development guild](https://discord.gg/AxMZJyg), at `#slither-dither`
+- The [Roguelikes Discord](https://discord.gg/tJt4kMM), at `#powder`
+- My [cult 👀](https://discord.gg/AxMZJyg), at `#slither-dither`
 
 ### Footnotes
 
