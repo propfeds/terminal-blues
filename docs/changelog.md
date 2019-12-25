@@ -6,7 +6,7 @@
 
 - **Revamped *a lot of* spell icons**
 - **New fonts!** Current font listing:
-  - **Brass:** Brass Gold, no Blues
+  - **Brass:** Brass Red
   - **Classic:** A modification of the IBM CGA thick font
   - **Heavy:** Eclipse, custom font
   - **Light:** Blightbulb, custom font
