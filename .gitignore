@@ -1,16 +1,15 @@
 # Binaries
+data/config.ini
 export/bin/
 export/readme.txt
-export/settings.ini
 export/terminal-blues-*.zip
 
 # Reference
 ref/
 
 # Scripts
-fonts/*/*_powder.png
-scripts/py/*.hex
-scripts/py/*.png
+**/*_powder.png
+**/*_5bit.hex
 
 # Testing variants
 master_*.aseprite

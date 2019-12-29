@@ -12,7 +12,7 @@ Should you feel the need to edit the tileset to your liking, the holy source is 
 
 ## Terminal Blues
 
-The Terminal Blues [export script](../scripts/lua_ase/export.lua) does not require an installation of Lua.
+The Terminal Blues [export script](../data/scripts/lua_ase/export.lua) does not require an installation of Lua.
 
 1. Move `export.lua` to Aseprite's script folder
 (`%appdata%/Aseprite/scripts/` for Windows).
@@ -44,7 +44,7 @@ The export should appear within the `export` folder of the repository.
 
 ## The fonts
 
-The [CP437 to POWDER script](../scripts/py/cp437_to_powder.py) converts an CP437/ANSI bitmap to the POWDER format.
+The [CP437 to POWDER script](../data/scripts/py/cp437_to_powder.py) converts an CP437/ANSI bitmap to the POWDER format.
 Only works with square fonts since POWDER uses them.
 
 1. Cook up a new font!
@@ -55,7 +55,7 @@ A `<something>_powder.png` will appear before your eyes.
 
 ## Palettes
 
-The [eight divider script](../scripts/lua_ase/eight_divider.lua) converts your palette into 5-bit, and works inside Aseprite.
+The [eight divider script](../data/scripts/lua_ase/eight_divider.lua) converts your palette into 5-bit, and works inside Aseprite.
 
 1. Move `export.lua` to Aseprite's script folder
 (`%appdata%/Aseprite/scripts/` for Windows).
@@ -64,6 +64,6 @@ Make sure it is the active window in the program.
 3. Go to Files > Scripts > `eight_divider`.
 The palette should be converted to 5-bit.
 
-As a Aseprite-independent solution, the [deprecated eight divider script](../scripts/py/eight_divider.py) will convert your palettes to 5-bit.
+As a Aseprite-independent solution, the [deprecated eight divider script](../data/scripts/py/eight_divider.py) will convert your palettes to 5-bit.
 Only supports `.hex` palettes.
 Just run it and input the palette name, and it'll spit out an uglier one!
