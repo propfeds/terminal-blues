@@ -3,7 +3,10 @@ Errors
 --]]
 local sprite=app.activeSprite
 if not sprite then
-    app.alert('Export what?')
+    app.alert{
+        title='Error',
+        text='Active sprite is nil. Export what?'
+    }
     return
 end
 
@@ -72,8 +75,11 @@ app.transaction(
 
         sprite:loadPalette(project_directory..'data/palettes/blues.gpl')
         export(sprite, project_directory..'export/blues/', true, true)
-        
+
         sprite:loadPalette(project_directory..'data/palettes/prot.gpl')
         export(sprite, project_directory..'export/protea/', true, true)
+
+        sprite:loadPalette(project_directory..'data/palettes/deut.gpl')
+        export(sprite, project_directory..'export/deutzia/', true, true)
     end
 )

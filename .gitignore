@@ -1,6 +1,7 @@
 # Binaries
 data/config.ini
 export/bin/
+export/license.txt
 export/readme.txt
 export/terminal-blues-*.zip
 

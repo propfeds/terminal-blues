@@ -14,6 +14,8 @@
 - **New variants!**
   - **Protea:** the First Guardian of the True Blues,
   who attempts to aid those with red cone proficiency.
+  - **Deutzia:** the Second Guardian has arisen
+  to guide the ones of deficient green cones.
 - Better support for **contributing**
 - All entities now have **outlines** in order to not be swallowed up by background traps
 
@@ -37,10 +39,13 @@
   - **(13)** Iron Blue: Reduced saturation and value
   - **(16)** Deep Blue: Reduced saturation
   - **(20)** Violet: Reduced saturation, increased value, shifted hue to blue
-- **Protea (Protanomaly/Protanopia):** Spawned:
+- **Protea (Protanopia/Protanomaly):** Spawned:
   - Based on an earlier version of Blues with brighter colours
   - **(9-11)** All greens have been shifted to purple
   - Small tweaks to other colours
+- **Deutzia (Deuteranopia/Deuteranomaly):** Spawned:
+  - Based on Protea
+  - **(9-11)** All greens have been shifted to jade
 - **Colour scheme changes:**
   - Confirmation/blessed items from green to blue
   - As an experiment, (6) pink flesh is no longer used in `dungeon16.bmp`,

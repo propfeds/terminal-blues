@@ -23,7 +23,7 @@ Terminal Blues comes with a few **variants:**
 - `true_blues`: The three Guardians of the True Blue,
 who attempt to aid those with colour deficiencies.
   - `protea`: The guardian of the long cones, now available for testing.
-  - `deuterium`: ??
+  - `deutzia`: The guardian of the medium cones, extremely in need of testing.
   - `tridude`: ???
 
 **Windows, Linux, Mac:**
