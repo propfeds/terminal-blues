@@ -40,11 +40,10 @@
   - **(16)** Deep Blue: Reduced saturation
   - **(20)** Violet: Reduced saturation, increased value, shifted hue to blue
 - **Protea (Protanopia/Protanomaly):** Spawned:
-  - Based on an earlier version of Blues with brighter colours
+  - Based on Blues 1.1b6
   - **(9-11)** All greens have been shifted to purple
-  - Small tweaks to other colours
 - **Deutzia (Deuteranopia/Deuteranomaly):** Spawned:
-  - Based on Protea
+  - Based on Blues 1.1b6
   - **(9-11)** All greens have been shifted to jade
 - **Colour scheme changes:**
   - Confirmation/blessed items from green to blue
