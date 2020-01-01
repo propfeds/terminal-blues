@@ -11,9 +11,9 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 
 ## Instructions
 
-Latest release: [1.0.1](https://github.com/PropFeds/terminal-blues/releases/latest)
+Latest release: [1.0.1](https://github.com/PropFeds/terminal-blues/releases/latest) (2019-09-21)
 
-Latest alpha/beta: [1.1.0-alpha.3](https://github.com/PropFeds/terminal-blues/releases/tag/1.1.0-alpha.3)
+Latest pre-release: [1.1.0-alpha.3](https://github.com/PropFeds/terminal-blues/releases/tag/1.1.0-alpha.3) (2019-12-20)
 
 Master: Tileset is contained within `export` folder.
 

@@ -20,6 +20,8 @@ With the advent of the blues palette 1.1b5, the colour palette is now converted 
 
 ## Colourblind variants are lazy
 
+What I use for colourblind tests: [JS Colorblind Simulator](https://github.com/MaPePeR/jsColorblindSimulator)
+
 It would seem so if all it took was hue-shifting all the greens?
 
 Truth is, I have to take care of the main palette too,
