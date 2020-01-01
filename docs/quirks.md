@@ -2,6 +2,10 @@
 
 As well as questions, complaints, etc.
 
+## To work without branches
+
+I use no extra branches, because image layers are easier to manage, and are sort of a form of source control.
+
 ## My Heavy and Light fonts are swapped
 
 As of v118, Jeff's font listing in-game is swapped on those two when using a loaded tileset.
