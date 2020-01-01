@@ -1,9 +1,3 @@
-# Quirks and Questions
-
-## To work without branches
-
-I use no extra branches, because image layers are easier to manage, and are sort of a form of source control.
-
 # Quirks
 
 As well as questions, complaints, etc.
