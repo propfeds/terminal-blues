@@ -4,18 +4,18 @@
 
 The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 
-- Terrain, monsters and items in Code Page 437/Extended ASCII/ANSI[^1]
+- Terrain, monsters and items in Code Page 437/Extended ASCII/ANSI[^1](#footnotes)
 - (??? Heresy) Spell icons completely in 14px pixel-art
 - Custom fonts: [Blightbulb](extras/lore/blightbulb.md) and [Eclipse](extras/lore/eclipse.md) to replace the [Light and Heavy](docs/quirks.md#my-heavy-and-light-fonts-are-swapped) fonts!
 - Questionable colourblind support
 
 ## Instructions
 
-Latest release: [1.0.1](https://github.com/PropFeds/terminal-blues/releases/latest) (2019-09-21)
+**Latest release:** [1.0.1](https://github.com/PropFeds/terminal-blues/releases/latest) (2019-09-21)
 
-Latest pre-release: [1.1.0-alpha.3](https://github.com/PropFeds/terminal-blues/releases/tag/1.1.0-alpha.3) (2019-12-20)
+**Latest pre-release:** [1.1.0-alpha.3](https://github.com/PropFeds/terminal-blues/releases/tag/1.1.0-alpha.3) (2019-12-20)
 
-Master: Tileset is contained within `export` folder.
+**Master:** Tileset is contained within `export` folder.
 
 Terminal Blues comes with a few **variants:**
 
@@ -51,17 +51,11 @@ who attempt to aid those with colour deficiencies.
 
 *The Big B*
 
-![screenshot-2](data/press_kit/screenshot-2.png "Space Odyssey")
-
-*Space Odyssey*
-
 ![screenshot-3](data/press_kit/screenshot-3.png "rEkkkT?")
 
 *rEkkkT? (Eclipse font)*
 
 ## Documentation
-
-Be noted, markdown (`.md`) documents can be opened in a text editor.
 
 [Full Changelog](docs/changelog.md)
 
@@ -73,7 +67,8 @@ Be noted, markdown (`.md`) documents can be opened in a text editor.
 
 ## Contact
 
-Whether for feedback or for a simple Internet hug, these are the ways:
+Whether for feedback or for a simple Internet hug,
+these are the available methods of arcane communication:
 
 - Post an issue on GitHub
 - The [Roguelikes Discord](https://discord.gg/tJt4kMM), at `#powder`
