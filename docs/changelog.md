@@ -12,12 +12,13 @@
   - **Light:** Blightbulb, custom font
   - **Shadow:** The regular game's Heavy font, for maximum readability
 - **New variants!**
-  - **Protea:** the First Guardian of the True Blues,
-  who attempts to aid those with red cone proficiency.
-  - **Deutzia:** the Second Guardian has arisen
-  to guide the ones of deficient green cones.
+  - **Protea:** the First Guardian of the True Blues, who attempts to aid
+  those with red cone proficiency.
+  - **Deutzia:** the Second Guardian has arisen to guide the ones of
+  deficient green cones.
 - Better support for **contributing**
-- All entities now have **outlines** in order to not be swallowed up by background traps
+- All entities now have **outlines** in order to not be swallowed up by
+background traps
 
 ### Fixes
 
@@ -109,7 +110,8 @@ Colours:
 - Darker unlearned spell borders
 - Changed tridude colours
 - Drop shadow on text now southwest instead of southeast
-- Action icons for character actions from yellow to teal (because it's more blue)
+- Action icons for character actions from yellow to teal
+(because it's more blue)
 - Breathing icon from purple to teal
 - Animated trees to light green and w/o dark eyes
 - Kobold fighter from violet to room blue, because
@@ -137,7 +139,8 @@ Fixes:
 
 Colours:
 
-- Modified the entire palette multiple times to please Jeff Lait's mysterious formula for minimap and unlearned spell colours
+- Modified the entire palette multiple times to please Jeff Lait's
+mysterious formula for minimap and unlearned spell colours
 - Asian male and teal-skinned female
 - (Re-)coloured all the books, pots and wands
 - Zoul Zucker now violet
@@ -178,8 +181,10 @@ Glyphs:
 - Fixed winged shoes (now brown instead of wall blue)
 - Magic/sapphire shade is now bluer and brighter
 - Grid bug, storm elemental and dragon now purple instead of magic blue
-- Magic attacks now are actual ascii characters instead of custom glyphs, and now uses the ice blue shade
-- On the technical side, an Aseprite script (Lua) has been created for the exporting of the tileset
+- Magic attacks now are actual ascii characters instead of custom glyphs,
+and now uses the ice blue shade
+- On the technical side, an Aseprite script (Lua) has been created
+for the exporting of the tileset
 - Blood red shade more violent/vibrant
 
 ## 0.0: Spawn

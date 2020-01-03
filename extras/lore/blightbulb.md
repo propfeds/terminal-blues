@@ -10,7 +10,4 @@ It's supposed to be somewhat handwriting-ish?
 And then the extremely narrow width of it tells otherwise.
 
 Its spacings had been adjusted (1.03) in Terminal Blues 1.1.0-alpha.1,
-though it won't receive much update going forward.
-
-Blightbulb would go to the extra list when Leafletter comes to replace,
-but Leafletter will not likely be present on 1.1.0: Spelling Reform yet.
+though it won't receive any update going forward.

@@ -1,16 +1,18 @@
 # Binaries
 data/config.ini
-export/bin/
-export/license.txt
-export/readme.txt
-export/terminal-blues-*.zip
+export/readme.md
+export/license.md
+export/**/*.zip
+export/**/*.7z
+export/**/*.tar.gz
 
-# Reference
-ref/
+# Extras
+extras/ref/
+extras/bin/
 
 # Scripts
 **/*_powder.png
 **/*_5bit.hex
 
 # Testing variants
-master_*.aseprite
+master*.aseprite
