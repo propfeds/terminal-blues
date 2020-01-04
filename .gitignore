@@ -1,5 +1,6 @@
+data/config.lua
+
 # Binaries
-data/config.ini
 export/readme.md
 export/license.md
 export/**/*.zip
