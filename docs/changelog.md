@@ -16,7 +16,8 @@
   those with red cone proficiency.
   - **Deutzia:** the Second Guardian has arisen to guide the ones of
   deficient green cones.
-- Better support for **contributing**
+- Better support for **contributing:**
+  - A more robust very cool brand new **EXPORTER** script!
 - All entities now have **outlines** in order to not be swallowed up by
 background traps
 

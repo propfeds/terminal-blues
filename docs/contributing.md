@@ -12,10 +12,11 @@ Should you feel the need to edit the tileset to your liking, the holy source is 
 
 ## Terminal Blues
 
-The Terminal Blues [export script](../data/scripts/lua_ase/export.lua) does not require an installation of Lua.
+The Terminal Blues [old export script](../data/scripts/lua_ase/export.lua) does not require an installation of Lua, and has been deprecated.
 
-1. Move `export.lua` to Aseprite's script folder
-(`%appdata%/Aseprite/scripts/` for Windows).
+1. Move the whole `data/scripts/lua_ase/` to Aseprite's script folder
+(`%appdata%/Aseprite/scripts/` for Windows), and toy with it!
+More updated documentation coming soon™.
 2. Edit `master.aseprite` at your own will.
 
   - Note that inside the sprite there are layers with prefixing numbers.

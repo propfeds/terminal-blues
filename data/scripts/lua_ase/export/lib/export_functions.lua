@@ -48,7 +48,8 @@ function export(sprite, dir, override, equipment, extra_alph, alph_in, alph_out)
                 if (alph_in[i]--[[~=nil]] and alph_in[i]~='')
                 and (alph_out[i]--[[~=nil]] and alph_out[i]~='')
                 and (alph_list[alph_in[i]]--[[extra alph exists]]) then
-                    save_slice('alphabet_'..alph_in[i], dir, '', alph_out[i])
+                    save_slice('alphabet_extra_'..alph_in[i], dir, '',
+                    'alphabet_'..alph_out[i])
                 end
             end
         else
