@@ -1,7 +1,9 @@
 # True Blues
 
 There's no one universal True Blue.
+
 Everyone's Blue is different from one another.
+
 The True Blues series of three aims to help those with colour deficiency
 so that they can find their True Blues.
 

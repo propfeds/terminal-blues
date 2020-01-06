@@ -44,12 +44,20 @@ function export(sprite, dir, override, equipment, extra_alph, alph_in, alph_out)
             alph_list[layer.name]=i
         end
         if override then
+            layers.alph_in={}
             for i=1, 5 do
                 if (alph_in[i]--[[~=nil]] and alph_in[i]~='')
                 and (alph_out[i]--[[~=nil]] and alph_out[i]~='')
                 and (alph_list[alph_in[i]]--[[extra alph exists]]) then
+                    -- Makes sure the alph is visible
+                    layers.alph_in[i]=layers.extra_alph.layers[
+                        alph_list[alph_in[i]]]
+                    prev_states.alph_in[i]=deep_copy(
+                        layers.alph_in[i].isVisible)
+                    layers.alph_in[i].isVisible=true
                     save_slice('alphabet_extra_'..alph_in[i], dir, '',
                     'alphabet_'..alph_out[i])
+                    layers.alph_in[i].isVisible=prev_states.alph_in[i]
                 end
             end
         else

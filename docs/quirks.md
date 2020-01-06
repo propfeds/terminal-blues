@@ -11,15 +11,17 @@ It would seem so if all it took was hue-shifting all the greens?
 
 Truth is, I have to take care of the main palette too, and I'll have you know
 it is certainly *not* easy to balance *twenty* colours for the colourblind.
-Every guide I have seen only cover colourblind balancing for *three to five* colours, not twenty.
+Every guide I have seen only cover colourblind balancing for *three to five*
+colours, not twenty.
 
-I don't consider myself a really good palette creator,
-but luckily the default palette is decent already.
+I don't consider myself a really good palette creator, but luckily the default
+palette is decent already.
 
 ## My colours are ugly
 
 POWDER converts the palette into 5-bit RGB to be GBA compatible.
-With the advent of the blues palette 1.1b5, the colour palette is now converted to 5-bit, which means `social_card = in_game = ugly`.
+With the advent of the blues palette 1.1b5, the colour palette is now converted
+to 5-bit, which means `social_card = in_game = ugly`.
 
 ## My Heavy and Light fonts are swapped
 
@@ -28,8 +30,8 @@ As of v118, Jeff's font loading is swapped on those two when loading from disk.
 
 ## Style (or the Lack Thereof)
 
-You might be unsurprised to find that the tileset has no style,
-and just looks barely decent for the sake of being decent. That is fine.
+You might be unsurprised to find that the tileset has no style, and just looks
+barely decent for the sake of being decent. That is fine.
 Barely any research was done, I mostly just chose barely interesting ideas.
 Even the Blues pun doesn't extend that far beyond the chosen palette.
 
@@ -57,8 +59,8 @@ each and every small detail at 2x scale, and Madeline.
 
 ## To work without branches
 
-I use no extra branches, because image layers are easier to manage,
-and are sort of a form of source control anyway.
+I use no extra branches, because image layers are easier to manage, and are
+sort of a form of source control anyway.
 
 ## Turtles being qs and Qs is unusual
 

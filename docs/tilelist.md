@@ -109,7 +109,7 @@ UVWXYZ←→↑↓
 =-\',./+_|
 "<>?[]{}`~
 ,.<>;:Θ¿■
-and then the inventory artifact hash
+`#` (small inventory artifact hash)
 ```
 
 **Special Symbols:**

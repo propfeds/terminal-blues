@@ -1,6 +1,6 @@
--- Version: 1.01
+-- Version: 1.02
 
-dofile('elements/alerts.lua')
+dofile('data/alerts.lua')
 
 local sprite=app.activeSprite
 
@@ -56,7 +56,7 @@ if cfg==nil then
     }
 end
 
-dofile('elements/dialogue.lua')
+dofile('data/dialogue.lua')
 
 dlg:show()
 

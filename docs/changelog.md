@@ -12,10 +12,10 @@
   - **Light:** Blightbulb, custom font
   - **Shadow:** The regular game's Heavy font, for maximum readability
 - **New variants!**
-  - **Protea:** the First Guardian of the True Blues, who attempts to aid
-  those with red cone proficiency.
-  - **Deutzia:** the Second Guardian has arisen to guide the ones of
-  deficient green cones.
+  - **Protea:** the First Guardian of the True Blues, who attempts to aid those
+  with red cone proficiency.
+  - **Deutzia:** the Second Guardian has arisen to guide the ones of deficient
+  green cones.
 - Better support for **contributing:**
   - A more robust very cool brand new **EXPORTER** script!
 - All entities now have **outlines** in order to not be swallowed up by
@@ -49,8 +49,8 @@ background traps
   - **(9-11)** All greens have been shifted to jade
 - **Colour scheme changes:**
   - Confirmation/blessed items from green to blue
-  - As an experiment, (6) pink flesh is no longer used in `dungeon16.bmp`,
-now replaced by the (7) yellow male skin
+  - As an experiment, (6) pink flesh is no longer used in `dungeon16.bmp`, now
+  replaced by the (7) yellow male skin
     - Shitomi: from (6) to (20) violet
   - Minimising use of (3) burgundy:
     - Dirt path from (3) to (9) wood green
