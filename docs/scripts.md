@@ -3,8 +3,8 @@
 Various tools to aid the development of the tileset.
 Notes:
 - `./` refers to the repo's root directory.
-- Scripts' directories are relative to their language's folder (such as `py/`).
-- Scripts' rerequisites also include their language's prerequisites.
+- Scripts' directories are listed **relative** to their language's folder.
+- Scripts' rerequisites also **include** their language's prerequisites.
 
 ## Lua (Aseprite)
 
@@ -13,7 +13,7 @@ Its main downside is that every variable or object is just a reference.
 The Lua (Aseprite) (as if I would make grafx2 scripts!) script folder is a set
 of tools used inside Aseprite in order to streamline the development process.
 
-**Location:** [`./data/scripts/lua_ase/`](../data/scripts/lua_ase/)
+**Directory:** [`./data/scripts/lua_ase/`](../data/scripts/lua_ase/)
 
 **Prerequisites:**
 - A copy of [Aseprite](https://www.aseprite.org):
@@ -37,7 +37,9 @@ and reduces palette management.
 **Caution:** Every time the script changes the sprite's palette, it creates a
 transaction, which will alter your undo history.
 
-**Location:** [`export/`](../data/scripts/lua_ase/export/)
+**Directory:** [`export/`](../data/scripts/lua_ase/export/)
+
+(Main file: [`export/main.lua`](../data/scripts/lua_ase/export/main.lua))
 
 **Prerequisites:**
 None
@@ -77,7 +79,7 @@ Hit `Ctrl+Z` the exact number of times to undo all palette changes.
 The `eight_divider` script will convert your sprite's current palette to 5-bit.
 Will not convert pure white (alpha 255) or pure green (alpha 64).
 
-**Location:** [`eight_divider.lua`](../data/scripts/lua_ase/eight_divider.lua)
+**Directory:** [`eight_divider.lua`](../data/scripts/lua_ase/eight_divider.lua)
 
 **Prerequisites:**
 None
@@ -95,7 +97,7 @@ and the fact that it is so easy to program in (masochists hate it!).
 The Python script folder is a set of tools used outside of Aseprite that
 typically deal with external files.
 
-**Location:** [`./data/scripts/py/`](../data/scripts/py/)
+**Directory:** [`./data/scripts/py/`](../data/scripts/py/)
 
 **Prerequisites:**
 - An installation of [`Python`](https://www.python.org).
@@ -108,7 +110,7 @@ Just run the scripts (try double-clicking).
 This script converts an CP437/ANSI bitmap to the POWDER format. Only works with
 square fonts since POWDER uses them.
 
-**Location:** [`cp437_to_powder.py`](../data/scripts/py/cp437_to_powder.py)
+**Directory:** [`cp437_to_powder.py`](../data/scripts/py/cp437_to_powder.py)
 
 **Prerequisites:**
 - The `pathlib` package (which is probably available by default).
@@ -127,12 +129,12 @@ as the original font.
 4. Stick it onto `master.aseprite`, then do all sorts of *post-processing*
 on it like how it should be done in other alphabets.
 
-### eight_divider (deprecated)
+### eight_divider.py (deprecated)
 
 As a Aseprite-independent solution, the deprecated `eight_divider` script will
 convert your palettes to 5-bit. Only supports `.hex` palettes.
 
-**Location:** [`eight_divider.py`](../data/scripts/py/eight_divider.py)
+**Directory:** [`eight_divider.py`](../data/scripts/py/eight_divider.py)
 
 **Prerequisites:**
 - The `pathlib` package (which is probably available by default).
