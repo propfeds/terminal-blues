@@ -7,9 +7,8 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 - Terrain, monsters and items are entirely within Code Page 437[^1](#footnotes)
 (or whatever you call it: extended ASCII, ANSI, etc.)
 - (??? Heresy) Spell icons completely in 14px pixel-art
-- Custom fonts: A very red Brass, plus [Blightbulb](extras/lore/blightbulb.md)
-and [Eclipse](extras/lore/eclipse.md) to replace the
-[Light and Heavy](docs/quirks.md#my-heavy-and-light-fonts-are-swapped) fonts!
+- Custom fonts: A very red Brass, plus two new fonts:
+[Blightbulb](extras/lore/blightbulb.md) and [Eclipse](extras/lore/eclipse.md)!
 - Questionable colourblind support
 
 ## Instructions
@@ -33,17 +32,31 @@ with colour deficiencies.
 
 **Windows, Linux, Mac:**
 
-- Create a folder in your POWDER directory named `gfx`.
-- Copy the bmps in your desired variant to `gfx`.
-- Optional features: Override in `gfx` to apply.
+- Move the `.bmp`s in the desired variant to the `gfx/` subdirectory of your
+POWDER installation.
+The `.bmp` files should be directly in `gfx/`, not in a subdirectory thereof.
+- Optional features: Override in `gfx/` to apply.
   - `equipment`: Will display worn equipment on the @ tile.
-  - `extra_alphabets`: Rename to one of the alphabets and override. All the
-  fonts are copyrighted by their respective owners.
+  - `extra_alphabets`: Rename to one of the alphabets and override.
 - Within POWDER, go to Options > Tiles > From Disk.
 - To change the font, head to Options > Fonts.
 
-**Handheld versions:** You'll need to compile the game with this tileset
-included.
+**Nintendo DS:**
+
+- Same instructions as above, to the `DATA/POWDER/gfx/` directory on the root
+of your flash cartridge.
+- On startup it should report detecting the tileset, and a new menu option
+should show up.
+
+**Gameboy Advance:**
+From Jeff Lait,
+
+> The splicebmp program was used to patch a POWDER ROM with these tiles.
+> It is no longer supported. GBA users that want a new tileset need to recompile
+> from scratch.
+
+**Other Versions:**
+You'll need to compile the game with this tileset included.
 
 ## Screenshots
 
@@ -51,15 +64,15 @@ included.
 
 ![screenshot-0](extras/images/press_kit/screenshot-0.png "Under Siege")
 
-*Under Siege (Blightbulb font)*
+> Under Siege (Blightbulb font)
 
 ![screenshot-1](extras/images/press_kit/screenshot-1.png "The Big B")
 
-*The Big B*
+> The Big B
 
 ![screenshot-3](extras/images/press_kit/screenshot-3.png "rEkkkT?")
 
-*rEkkkT? (Eclipse font)*
+> rEkkkT? (Eclipse font)
 
 ## Documentation
 
@@ -67,7 +80,7 @@ included.
 
 [Quirks](docs/quirks.md)
 
-[Scripts (Tools)](docs/scripts.md)
+[Scripts](docs/scripts.md)
 
 [Tile List](docs/tilelist.md)
 
@@ -80,6 +93,22 @@ methods of arcane communication:
 - The [Roguelikes Discord](https://discord.gg/tJt4kMM), at `#powder`
 - My [cult 👀](https://discord.gg/AxMZJyg), at `#slither-dither`
 
-### Footnotes
+## Licenses
+
+- The `Terminal Blues` tileset is licensed under [**CC-BY-SA 4.0**](license.md).
+- Base fonts (alphabets):
+  - `brass` and `classic` were derived by Markus Maier from the window's (sic)
+  console font, licensed under **CC-BY 3.0**.
+  - `shadow` was created by Markus Maier, licensed under **CC-BY 3.0**.
+  - `light` and `heavy` were created by PropFeds, and are **unlicensed**.
+- Extra fonts (alphabets): Credit goes to their respective designers.
+  - `cheepicus` was created by Cheepicus.
+  - `ibm_cga_thin` was created by IBM.
+  - `minecraft` was created by JD Graphics.
+  - `msx` was derived by Zaratustra from the MSX computers.
+  - `textmachine_handwriting` was created by Polyducks. Original:
+  [link](https://polyducks.itch.io/textmachine-handwriting-font)
+
+## Footnotes
 
 [^1]: Though some items have custom textures for ease of identification.
