@@ -60,25 +60,23 @@ You'll need to compile the game with this tileset included.
 
 ## Screenshots
 
-1.1: Spelling Reform is under construction. Screenshots may not be final!
-
 ![screenshot-0](extras/images/press_kit/screenshot-0.png "Under Siege")
 
 > Under Siege (Blightbulb font)
 
 ![screenshot-1](extras/images/press_kit/screenshot-1.png "The Big B")
 
-> The Big B
+> The Big B (Minecraft font)
 
 ![screenshot-3](extras/images/press_kit/screenshot-3.png "rEkkkT?")
 
 > rEkkkT? (Eclipse font)
 
-![cblind-pals](extras/images/press_kit/colourblind-palettes.png "True Blues")
+![pals](extras/images/press_kit/palettes.png "Palettes")
 
-> True Blues: from left to right,
+> Palettes: from left to right,
 >
-> Blues (reference): v1.1b6
+> Blues: v1.1b6
 >
 > Protea: v0.07
 >
