@@ -74,6 +74,14 @@ You'll need to compile the game with this tileset included.
 
 > rEkkkT? (Eclipse font)
 
+![cblind-pals](extras/images/press_kit/colourblind-palettes.png "True Blues")
+
+> True Blues: from left to right,
+> Blues (for reference): v1.1b6
+> Protea: v0.07
+> Deutzia: v0.02
+> Tritoma: v0.02
+
 ## Documentation
 
 [Full Changelog](docs/changelog.md)
