@@ -16,6 +16,8 @@
   with red cone proficiency.
   - **Deutzia:** the Second Guardian has arisen to guide the ones of deficient
   green cones.
+  - **Tritoma:** the Third and Final Guardian has awoken from her sleep. She
+  knows there are deficient blue cones out there.
 - Better support for **contributing:**
   - A more robust very cool brand new **EXPORTER** script!
 - All entities now have **outlines** in order to not be swallowed up by
@@ -47,6 +49,10 @@ background traps
 - **Deutzia (Deuteranopia/Deuteranomaly):** Spawned:
   - Based on Blues 1.1b6
   - **(9-11)** All greens have been shifted to jade
+- **Tritoma (Tritanopia/Tritanomaly):** Spawned:
+  - Based on Blues 1.1b6
+  - **(9-11)** All greens have been shifted to lime
+  - **(20-21)** Purples have been shifted towards pink, and decreased saturation
 - **Colour scheme changes:**
   - Confirmation/blessed items from green to blue
   - As an experiment, (6) pink flesh is no longer used in `dungeon16.bmp`, now

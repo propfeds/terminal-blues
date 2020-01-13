@@ -21,13 +21,13 @@ cfg_def={
             true,
             true,
             true,
-            false
+            true
         },
         versions={
             '1.1b6',
             '0.07',
             '0.02',
-            '0'
+            '0.02'
         }
     },
     custom={

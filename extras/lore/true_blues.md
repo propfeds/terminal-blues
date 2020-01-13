@@ -29,6 +29,12 @@ Japan and the Philippines), and Central America and also Europe.
 
 ## Tritoma
 
-Third Guardian of the True Blues **(Tritanopia/Tritanomaly)**, the `Unfinished`
+Third Guardian of the True Blues **(Tritanopia/Tritanomaly)**, the Collected
 
-Latest version: ¯\\\_(ツ)\_/¯
+Latest version: [0.02](../../data/palettes/tritoma/trit_0.02.gpl)
+
+Kniphofia uvaria is a species of flowering plant in the family Asphodelaceae,
+also known as **tritomea** (sic), torch lily, or red hot poker, due to the
+shape and color of its inflorescence. It originates from the Cape Province of
+South Africa, and has been introduced into many parts of the world, such as
+North America, Australia, New Zealand, Patagonia and Europe as a garden plant.

@@ -17,7 +17,7 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 [1.0.1](https://github.com/PropFeds/terminal-blues/releases/latest) (2019-09-21)
 
 **Latest pre-release:**
-[1.1.0-alpha.3](https://github.com/PropFeds/terminal-blues/releases/tag/1.1.0-alpha.3) (2019-12-20)
+[1.1.0-alpha.4](https://github.com/PropFeds/terminal-blues/releases/tag/1.1.0-alpha.4) (2020-01-13)
 
 **Master:** Tileset is contained within `export` folder.
 
@@ -28,7 +28,7 @@ Terminal Blues comes with a few **variants:**
 with colour deficiencies.
   - `protea`: The guardian of the long cones, now available for testing.
   - `deutzia`: The guardian of the medium cones, extremely in need of testing.
-  - `tridude`: ???
+  - `tridude`: The guardian of the short cones, patiently awaiting rare testers.
 
 **Windows, Linux, Mac:**
 
