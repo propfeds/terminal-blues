@@ -116,8 +116,12 @@ methods of arcane communication:
   - `ibm_cga_thin` was created by IBM.
   - `minecraft` was created by JD Graphics.
   - `msx` was derived by Zaratustra from the MSX computers.
-  - `textmachine_handwriting` was created by Polyducks. Original:
-  [link](https://polyducks.itch.io/textmachine-handwriting-font)
+  - `textmachine_handwriting` was created by Polyducks, licensed under **CSL**.
+  [Link](https://polyducks.itch.io/textmachine-handwriting-font)
+- Scripts:
+  - [`table_persistence`](data/scripts/lua_ase/export/lib/table_persistence.lua)
+  was created by Gerhard Roethlin, licensed under **MIT**.
+  - Every other script is **unlicensed**.
 
 ## Footnotes
 
