@@ -1,11 +1,11 @@
 # Terminal Blues: A POWDER Tileset in CP437
 
-## by PropFeds
+![banner](extras/images/press_kit/embed-2x.png "Banner")
 
 The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 
-- Terrain, monsters and items are entirely within Code Page 437[^1](#footnotes)
-(or whatever you call it: extended ASCII, ANSI, etc.)
+- Terrain, monsters and items are entirely within (Code Page 437/Extended ASCII/
+ANSI/etc.)[^1](#footnotes)
 - (??? Heresy) Spell icons completely in 14px pixel-art
 - Custom fonts: A very red Brass, plus two new fonts:
 [Blightbulb](extras/lore/blightbulb.md) and [Eclipse](extras/lore/eclipse.md)!
@@ -17,7 +17,7 @@ The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 [1.0.1](https://github.com/PropFeds/terminal-blues/releases/latest) (2019-09-21)
 
 **Latest pre-release:**
-[1.1.0-alpha.4](https://github.com/PropFeds/terminal-blues/releases/tag/1.1.0-alpha.4) (2020-01-13)
+[1.1.0-beta.1](https://github.com/PropFeds/terminal-blues/releases/tag/1.1.0-beta.1) (2020-01-16)
 
 **Master:** Tileset is contained within `export` folder.
 
@@ -37,7 +37,8 @@ POWDER installation.
 The `.bmp` files should be directly in `gfx/`, not in a subdirectory thereof.
 - Optional features: Override in `gfx/` to apply.
   - `equipment`: Will display worn equipment on the @ tile.
-  - `extra_alphabets`: Rename to one of the alphabets and override.
+  - `extra_alphabets` (Extra download): Rename desired alphabets to one of the
+  regular alphabet names and override.
 - Within POWDER, go to Options > Tiles > From Disk.
 - To change the font, head to Options > Fonts.
 
@@ -66,7 +67,11 @@ You'll need to compile the game with this tileset included.
 
 ![screenshot-1](extras/images/press_kit/screenshot-1.png "The Big B")
 
-> The Big B (Minecraft font)
+> The Big B (Extra Minecraft font)
+
+![screenshot-2](extras/images/press_kit/screenshot-2.png "Mass Mage")
+
+> Mass Mage (Spelling Reformed)
 
 ![screenshot-3](extras/images/press_kit/screenshot-3.png "rEkkkT?")
 

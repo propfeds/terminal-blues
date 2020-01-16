@@ -1,8 +1,10 @@
 data/config.lua
 
 # Binaries
-export/readme.md
+export/extra_alphabets/
+export/press_kit/
 export/license.md
+export/**/readme.md
 export/**/*.zip
 export/**/*.7z
 export/**/*.tar.gz
