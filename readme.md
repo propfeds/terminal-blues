@@ -14,10 +14,7 @@ ANSI/etc.)[^1](#footnotes)
 ## Instructions
 
 **Latest release:**
-[1.0.1](https://github.com/PropFeds/terminal-blues/releases/latest) (2019-09-21)
-
-**Latest pre-release:**
-[1.1.0-beta.1](https://github.com/PropFeds/terminal-blues/releases/tag/1.1.0-beta.1) (2020-01-16)
+[1.1.0](https://github.com/PropFeds/terminal-blues/releases/latest) (2020-01-17)
 
 **Master:** Tileset is contained within `export` folder.
 
