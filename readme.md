@@ -76,15 +76,11 @@ You'll need to compile the game with this tileset included.
 
 ![pals](extras/images/press_kit/palettes.png "Palettes")
 
-> Palettes: from left to right,
->
-> Blues: v1.1b6
->
-> Protea: v0.07
->
-> Deutzia: v0.02
->
-> Tritoma: v0.02
+> Palettes (from left): Blues v1.1b6, Protea v0.07, Deutzia v0.02, Tritoma v0.02
+
+![spells](extras/images/press_kit/spells.png "Spells")
+
+> Spelling Reform: Spells
 
 ## Documentation
 
