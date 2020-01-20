@@ -4,8 +4,8 @@
 
 The Hacklike reimagined in a deep blue terminal aesthetic. Featuring:
 
-- Terrain, monsters and items are entirely within (Code Page 437/Extended ASCII/
-ANSI/etc.)[^1](#footnotes)
+- Terrain, monsters and items are entirely within Code Page 437
+(/Extended ASCII/ANSI/etc.)[^1](#footnotes)
 - (??? Heresy) Spell icons completely in 14px pixel-art
 - Custom fonts: A very red Brass, plus two new fonts:
 [Blightbulb](extras/lore/blightbulb.md) and [Eclipse](extras/lore/eclipse.md)!
