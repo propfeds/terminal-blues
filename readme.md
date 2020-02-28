@@ -78,9 +78,9 @@ You'll need to compile the game with this tileset included.
 
 > Palettes (from left): Blues v1.1b6, Protea v0.07, Deutzia v0.02, Tritoma v0.02
 
-![spells](extras/images/press_kit/spells.png "Spells")
+![spells](extras/images/press_kit/spells-2x.png "Spell Wheel")
 
-> Spelling Reform: Spells
+> Spell Wheel
 
 ## Documentation
 
