@@ -86,6 +86,8 @@ You'll need to compile the game with this tileset included.
 
 [Full Changelog](docs/changelog.md)
 
+[Master Sprite Navigation](docs/navigation.md)
+
 [Quirks](docs/quirks.md)
 
 [Scripts](docs/scripts.md)
