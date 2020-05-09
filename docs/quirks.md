@@ -41,9 +41,8 @@ even with those little quirks and jokes that are included in the encyclopediae.
 
 Or the laziness to research. *Don't* stay tuned for my future stylish projects.
 
-Meanwhile, I shall give you a few *keywords*: spinning, flowers, palette sorrow,
-frogs, cymbals, the looming desire to unsummon halls of the dead, or to adjust
-each and every small detail at 2x scale, and Madeline.
+I'll give you a few keywords: grape juice, Python 3, circles, and the desire to
+assign the feather to the weather.
 
 ## Symbols that don't follow the roguelike semiotics (list unfinished)
 

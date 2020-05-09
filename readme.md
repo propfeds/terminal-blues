@@ -29,8 +29,8 @@ with colour deficiencies.
 
 **Windows, Linux, Mac:**
 
-- Move the `.bmp`s in the desired variant to the `gfx/` subdirectory of your
-POWDER installation.
+- Create a `gfx/` subdirectory inside your POWDER installation, and move the
+`.bmp`s of the desired variant there.
 The `.bmp` files should be directly in `gfx/`, not in a subdirectory thereof.
 - Optional features: Override in `gfx/` to apply.
   - `equipment`: Will display worn equipment on the @ tile.
