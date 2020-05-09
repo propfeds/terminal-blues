@@ -36,8 +36,7 @@ Barely any research was done, I mostly just chose barely interesting ideas.
 Even the Blues pun doesn't extend that far beyond the chosen palette.
 
 Again all of that is fine too. The main reason being I don't like to impose
-any sort of extra personality on top of the fairly generic base game,
-even with those little quirks and jokes that are included in the encyclopediae.
+any sort of forced personality on top of the base game.
 
 Or the laziness to research. *Don't* stay tuned for my future stylish projects.
 
