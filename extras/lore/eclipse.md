@@ -4,5 +4,6 @@ Latest version: [1.02](../../data/fonts/eclipse_gs_ro_1.02.png)
 
 Serifs galore! Which probably doesn't work as well in 8px without looking janky.
 
+Beware of the weird letter weights and slants.
 Rumours have it, if you stare at it for too long you might actually get dizzy
 and feel like on the moon!

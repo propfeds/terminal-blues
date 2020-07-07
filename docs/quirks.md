@@ -41,7 +41,7 @@ any sort of forced personality on top of the base game.
 Or the laziness to research. *Don't* stay tuned for my future stylish projects.
 
 I'll give you a few keywords: grape juice, Python 3, circles, and the desire to
-assign the feather to the weather.
+assign the feather to the weather. Shattered mirrors!
 
 ## Symbols that don't follow the roguelike semiotics (list unfinished)
 
