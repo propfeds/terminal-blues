@@ -45,6 +45,7 @@ function export(sprite, dir, override, equipment, extra_alph, alph_in, alph_out)
         end
         if override then
             layers.alph_in={}
+            prev_states.alph_in={}
             for i=1, 5 do
                 if (alph_in[i]--[[~=nil]] and alph_in[i]~='')
                 and (alph_out[i]--[[~=nil]] and alph_out[i]~='')
@@ -86,8 +87,12 @@ function export(sprite, dir, override, equipment, extra_alph, alph_in, alph_out)
             save_slice('mini16', dir, 'equipment/')
             save_slice('minif16', dir, 'equipment/')
         end
-        layers.equipment.isVisible=prev_states.equipment
+    else
+        layers.equipment.isVisible=false
+        save_slice('mini16', dir)
+        save_slice('minif16', dir)
     end
+    layers.equipment.isVisible=prev_states.equipment
 
     save_slice('sprite16', dir)
 

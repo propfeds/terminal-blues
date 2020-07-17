@@ -1,4 +1,10 @@
--- Version: 1.02
+-- Version: 1.03
+
+--[[
+    1.03: Fixed bugs:
+    - Failing to export extra alphabets (nil table)
+    - Failing to export minis if equipment bool is false
+]]
 
 dofile('data/alerts.lua')
 
