@@ -68,7 +68,7 @@ You'll need to compile the game with this tileset included.
 
 ![screenshot-2](extras/images/press_kit/screenshot-2.png "Mass Mage")
 
-> Mass Mage (Spelling Reformed)
+> Spelling Reformed (1.1.0)
 
 ![screenshot-3](extras/images/press_kit/screenshot-3.png "rEkkkT?")
 
