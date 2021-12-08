@@ -103,7 +103,7 @@ methods of arcane communication:
 - The [Roguelikes Discord](https://discord.gg/tJt4kMM), at `#powder`
 - My [cult 👀](https://discord.gg/AxMZJyg), at `#slither-dither`
 
-## Licenses
+## Credits
 
 - The `Terminal Blues` tileset is licensed under [**CC-BY-SA 4.0**](license.md).
 - Base fonts (alphabets):
@@ -125,4 +125,4 @@ methods of arcane communication:
 
 ## Footnotes
 
-[^1]: Though some items have custom textures for ease of identification.
+[^1]: Some items have custom textures for ease of identification.
