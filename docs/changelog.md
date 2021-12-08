@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.1.1
+
+- I realised I can't even extract Deflate64 on Android. The zip files are now
+  Deflate32.
+- Minor changes to spells: Fireball, Finger of Death, Grow Forest, Sunfire
+- Press kit now available separately
+
+
 ## 1.1: Spelling Reform
 
 ### Main Features
