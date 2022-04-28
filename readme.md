@@ -125,4 +125,4 @@ methods of arcane communication:
 
 ## Footnotes
 
-[^1]: Some items have custom textures for ease of identification.
+1. Some items have custom textures for ease of identification. Heresy.
